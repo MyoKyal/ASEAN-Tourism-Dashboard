@@ -1002,16 +1002,26 @@ select {
     grid-template-columns: 1fr;
   }
 
-  .map-layout,
+  .map-layout {
+    grid-template-columns: 1fr;
+    height: calc(100dvh - var(--nav-h));
+  }
+
   .compare-layout {
     grid-template-columns: 1fr;
     height: auto;
-    min-height: calc(100vh - var(--nav-h));
+    min-height: calc(100dvh - var(--nav-h));
+  }
+
+  .compare-side {
+    max-height: none;
+    border-right: none;
+    border-bottom: 1px solid var(--border);
   }
 
   .compare-map,
   .map-stage {
-    min-height: 55vh;
+    min-height: min(58dvh, 520px);
   }
 
   .sidebar-toggle {
