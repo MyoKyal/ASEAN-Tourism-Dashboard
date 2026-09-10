@@ -5,6 +5,12 @@ export default function SitePanel({ site, onClose, footer }) {
   if (!site) return null;
   const latest = latestVisitors(site);
   const color = CATEGORY_COLORS[site.category] || '#666';
+  const chartYears = (site.yearlyVisitors || []).map((y) => y.year);
+  const yearRange = chartYears.length
+    ? chartYears.length > 1
+      ? `${Math.min(...chartYears)}–${Math.max(...chartYears)}`
+      : `${chartYears[0]}`
+    : null;
 
   return (
     <aside className="site-panel">
@@ -42,7 +48,9 @@ export default function SitePanel({ site, onClose, footer }) {
           </div>
         ) : null}
       </dl>
-      <h3 className="site-panel__chart-title">Yearly visitors (2019–2023)</h3>
+      <h3 className="site-panel__chart-title">
+        Yearly visitors{yearRange ? ` (${yearRange})` : ''}
+      </h3>
       <VisitorsChart data={site.yearlyVisitors} />
       {footer ? <div className="site-panel__footer">{footer}</div> : null}
     </aside>

@@ -5,6 +5,11 @@ function escapeRegex(s) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
+/** Shared aggregation fragment: yearlyVisitors sorted ascending by year. */
+function sortedYearlyVisitorsExpr() {
+  return { $sortArray: { input: '$yearlyVisitors', sortBy: { year: 1 } } };
+}
+
 /** GET /api/sites */
 async function listSites(req, res, next) {
   try {
@@ -101,22 +106,11 @@ async function statsOverview(_req, res, next) {
             { $sort: { count: -1 } },
           ],
           visitorsByCountry: [
+            { $addFields: { _sorted: sortedYearlyVisitorsExpr() } },
             {
               $project: {
                 country: 1,
-                latestVisitors: {
-                  $let: {
-                    vars: {
-                      sorted: {
-                        $sortArray: {
-                          input: '$yearlyVisitors',
-                          sortBy: { year: 1 },
-                        },
-                      },
-                    },
-                    in: { $arrayElemAt: ['$$sorted.visitors', -1] },
-                  },
-                },
+                latestVisitors: { $arrayElemAt: ['$_sorted.visitors', -1] },
               },
             },
             {
@@ -128,21 +122,10 @@ async function statsOverview(_req, res, next) {
             { $sort: { totalLatestVisitors: -1 } },
           ],
           totalLatestVisitors: [
+            { $addFields: { _sorted: sortedYearlyVisitorsExpr() } },
             {
               $project: {
-                latestVisitors: {
-                  $let: {
-                    vars: {
-                      sorted: {
-                        $sortArray: {
-                          input: '$yearlyVisitors',
-                          sortBy: { year: 1 },
-                        },
-                      },
-                    },
-                    in: { $arrayElemAt: ['$$sorted.visitors', -1] },
-                  },
-                },
+                latestVisitors: { $arrayElemAt: ['$_sorted.visitors', -1] },
               },
             },
             {
@@ -187,7 +170,8 @@ async function statsOverview(_req, res, next) {
 async function compareSites(req, res, next) {
   try {
     const { siteId } = req.query;
-    const limit = Math.min(Number(req.query.limit) || 15, 50);
+    const rawLimit = req.query.limit === undefined ? 15 : Number(req.query.limit);
+    const limit = Math.min(rawLimit, 50);
 
     if (!siteId || !String(siteId).match(/^[0-9a-fA-F]{24}$/)) {
       return res.status(400).json({ error: 'Valid siteId query param is required' });
@@ -204,37 +188,22 @@ async function compareSites(req, res, next) {
         $match: {
           category: source.category,
           type: source.type,
+          // Only the source itself and cross-country peers ever reach the
+          // ranking/percentile math below, so those numbers always describe
+          // the exact same population as what's returned in `ranking`.
+          $or: [{ _id: source._id }, { country: { $ne: source.country } }],
         },
       },
       {
         $addFields: {
-          latestVisitors: {
-            $let: {
-              vars: {
-                sorted: {
-                  $sortArray: {
-                    input: '$yearlyVisitors',
-                    sortBy: { year: 1 },
-                  },
-                },
-              },
-              in: { $arrayElemAt: ['$$sorted.visitors', -1] },
-            },
-          },
-          latestYear: {
-            $let: {
-              vars: {
-                sorted: {
-                  $sortArray: {
-                    input: '$yearlyVisitors',
-                    sortBy: { year: 1 },
-                  },
-                },
-              },
-              in: { $arrayElemAt: ['$$sorted.year', -1] },
-            },
-          },
+          _sorted: sortedYearlyVisitorsExpr(),
           isSource: { $eq: ['$_id', source._id] },
+        },
+      },
+      {
+        $addFields: {
+          latestVisitors: { $arrayElemAt: ['$_sorted.visitors', -1] },
+          latestYear: { $arrayElemAt: ['$_sorted.year', -1] },
         },
       },
       { $sort: { latestVisitors: -1, name: 1 } },
@@ -278,20 +247,15 @@ async function compareSites(req, res, next) {
             $filter: {
               input: '$ranked',
               as: 's',
-              cond: {
-                $and: [
-                  { $ne: ['$$s._id', source._id] },
-                  { $ne: ['$$s.country', source.country] },
-                ],
-              },
+              cond: { $ne: ['$$s._id', source._id] },
             },
           },
-          allRanked: '$ranked',
         },
       },
       {
         $project: {
           totalInCategoryType: '$total',
+          sourceEntry: 1,
           sourceRank: '$sourceEntry.rank',
           percentile: {
             $cond: [
@@ -316,22 +280,15 @@ async function compareSites(req, res, next) {
             ],
           },
           peers: { $slice: ['$peers', limit] },
+          // The source is always kept regardless of where it lands among the
+          // peers, instead of being cut off by a position-based $slice.
           ranking: {
-            $slice: [
-              {
-                $filter: {
-                  input: '$allRanked',
-                  as: 's',
-                  cond: {
-                    $or: [
-                      { $eq: ['$$s._id', source._id] },
-                      { $ne: ['$$s.country', source.country] },
-                    ],
-                  },
-                },
+            $sortArray: {
+              input: {
+                $concatArrays: [['$sourceEntry'], { $slice: ['$peers', limit] }],
               },
-              limit + 1,
-            ],
+              sortBy: { latestVisitors: -1, name: 1 },
+            },
           },
         },
       },
@@ -367,7 +324,7 @@ async function compareSites(req, res, next) {
     });
 
     res.json({
-      source: slim({ ...result.ranking.find((r) => String(r._id) === String(source._id)) || source, isSource: true }),
+      source: slim({ ...(result.sourceEntry || source), isSource: true }),
       peers: (result.peers || []).map(slim),
       ranking: (result.ranking || []).map(slim),
       totalInCategoryType: result.totalInCategoryType,

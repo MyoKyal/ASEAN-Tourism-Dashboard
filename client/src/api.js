@@ -20,11 +20,11 @@ export const api = {
     const qs = q.toString();
     return request(`/api/sites${qs ? `?${qs}` : ''}`);
   },
-  getSite: (id) => request(`/api/sites/${id}`),
+  getSite: (id) => request(`/api/sites/${encodeURIComponent(id)}`),
   getCategories: () => request('/api/meta/categories'),
   getOverview: () => request('/api/stats/overview'),
   compare: (siteId, limit = 15) =>
-    request(`/api/compare?siteId=${siteId}&limit=${limit}`),
+    request(`/api/compare?siteId=${encodeURIComponent(siteId)}&limit=${encodeURIComponent(limit)}`),
   compareSearch: (q) =>
     request(`/api/compare/search?q=${encodeURIComponent(q)}`),
 };

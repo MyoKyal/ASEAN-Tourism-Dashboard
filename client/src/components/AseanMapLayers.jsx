@@ -17,9 +17,10 @@ export function AseanBoundsLock() {
 export function FitAseanView({ sites, padding = 0.12 }) {
   const map = useMap();
   useEffect(() => {
-    if (sites?.length) {
+    const withCoords = sites?.filter((s) => s.location?.coordinates) || [];
+    if (withCoords.length) {
       const bounds = L.latLngBounds(
-        sites.map((s) => [s.location.coordinates[1], s.location.coordinates[0]])
+        withCoords.map((s) => [s.location.coordinates[1], s.location.coordinates[0]])
       );
       if (bounds.isValid()) {
         map.fitBounds(bounds.pad(padding), { maxZoom: 7, animate: true });

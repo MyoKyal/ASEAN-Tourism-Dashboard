@@ -25,6 +25,7 @@ export default function MapPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [sidebarOpen, setSidebarOpen] = useState(true);
+  const [categoriesError, setCategoriesError] = useState(false);
   const [filters, setFilters] = useState({
     countries: [],
     category: '',
@@ -33,7 +34,10 @@ export default function MapPage() {
   });
 
   useEffect(() => {
-    api.getCategories().then(setCategories).catch(() => {});
+    api
+      .getCategories()
+      .then(setCategories)
+      .catch(() => setCategoriesError(true));
   }, []);
 
   useEffect(() => {
@@ -79,6 +83,7 @@ export default function MapPage() {
     <div className="map-layout map-layout--home">
       <FilterSidebar
         categories={categories}
+        categoriesError={categoriesError}
         filters={filters}
         onChange={setFilters}
         open={sidebarOpen}
@@ -123,6 +128,7 @@ export default function MapPage() {
               animate
             >
               {sites.map((site) => {
+                if (!site.location?.coordinates) return null;
                 const [lng, lat] = site.location.coordinates;
                 const latest = latestVisitors(site);
                 const isSelected = selected && selected._id === site._id;
