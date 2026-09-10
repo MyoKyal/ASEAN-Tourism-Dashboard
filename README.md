@@ -39,7 +39,8 @@ Open [http://localhost:5173](http://localhost:5173).
 ## Project structure
 
 ```
-docs/schema-design.md          # NoSQL modeling rationale (course report)
+docs/schema-design.md            # NoSQL modeling rationale (course report)
+docs/system-documentation.md     # Full system + comparison examples
 server/
   src/config/categoryTypes.js  # Fixed category → types map
   src/models/Site.js           # Mongoose schema + indexes
@@ -55,6 +56,7 @@ client/
   src/pages/ComparePage.jsx
 ```
 
+Full system explanation (architecture, MongoDB/NoSQL usage, comparison walkthroughs): **[docs/system-documentation.md](docs/system-documentation.md)**.
 ## API reference
 
 Base URL: `http://localhost:5000/api`
