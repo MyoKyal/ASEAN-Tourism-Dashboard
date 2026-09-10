@@ -116,7 +116,7 @@ export default function MapPage() {
             <MarkerClusterGroup
               chunkedLoading
               maxClusterRadius={40}
-              disableClusteringAtZoom={6}
+              disableClusteringAtZoom={5}
               spiderfyOnMaxZoom
               showCoverageOnHover={false}
               zoomToBoundsOnClick
