@@ -1,0 +1,8714 @@
+[
+  {
+    "name": "Shwedagon Pagoda",
+    "slug": "shwedagon-pagoda-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Golden Stupa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        96.1498,
+        16.7984
+      ]
+    },
+    "description": "Iconic gilded stupa dominating the Yangon skyline; Myanmar's most sacred Buddhist site.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 2400066
+      },
+      {
+        "year": 2020,
+        "visitors": 701377
+      },
+      {
+        "year": 2021,
+        "visitors": 891480
+      },
+      {
+        "year": 2022,
+        "visitors": 1765916
+      },
+      {
+        "year": 2023,
+        "visitors": 2351483
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "medium",
+    "tags": [
+      "yangon",
+      "buddhist",
+      "landmark"
+    ],
+    "imageQuery": "Shwedagon Pagoda Yangon golden stupa",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.340Z",
+    "establishedYear": 585
+  },
+  {
+    "name": "Bagan Temple Complex",
+    "slug": "bagan-temple-complex-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        94.875,
+        21.1667
+      ]
+    },
+    "description": "Thousands of temples and pagodas across the ancient Bagan plain along the Ayeyarwady.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 780562
+      },
+      {
+        "year": 2020,
+        "visitors": 232528
+      },
+      {
+        "year": 2021,
+        "visitors": 280276
+      },
+      {
+        "year": 2022,
+        "visitors": 577403
+      },
+      {
+        "year": 2023,
+        "visitors": 745232
+      }
+    ],
+    "rating": 4.9,
+    "entranceFee": "medium",
+    "tags": [
+      "bagan",
+      "unesco",
+      "plains"
+    ],
+    "imageQuery": "Bagan temples Myanmar aerial",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 849
+  },
+  {
+    "name": "Kyaiktiyo Golden Rock",
+    "slug": "kyaiktiyo-golden-rock-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        97.1667,
+        17.4817
+      ]
+    },
+    "description": "Precariously balanced gilded boulder pagoda — major pilgrimage destination in Mon State.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 435855
+      },
+      {
+        "year": 2020,
+        "visitors": 129180
+      },
+      {
+        "year": 2021,
+        "visitors": 162547
+      },
+      {
+        "year": 2022,
+        "visitors": 322757
+      },
+      {
+        "year": 2023,
+        "visitors": 418792
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "low",
+    "tags": [
+      "pilgrimage",
+      "mon-state"
+    ],
+    "imageQuery": "Golden Rock Kyaiktiyo Myanmar",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 1100
+  },
+  {
+    "name": "Mahamuni Buddha Temple",
+    "slug": "mahamuni-buddha-temple-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        96.078,
+        21.953
+      ]
+    },
+    "description": "Revered ancient Buddha image in Mandalay, continuously covered by devotees' gold leaf.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 587876
+      },
+      {
+        "year": 2020,
+        "visitors": 163810
+      },
+      {
+        "year": 2021,
+        "visitors": 207032
+      },
+      {
+        "year": 2022,
+        "visitors": 418295
+      },
+      {
+        "year": 2023,
+        "visitors": 584016
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "free",
+    "tags": [
+      "mandalay",
+      "buddha"
+    ],
+    "imageQuery": "Mahamuni Temple Mandalay",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 1784
+  },
+  {
+    "name": "Sule Pagoda",
+    "slug": "sule-pagoda-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Golden Stupa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        96.1565,
+        16.7743
+      ]
+    },
+    "description": "Historic stupa at the heart of downtown Yangon, said to enshrine a hair of the Buddha.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 320881
+      },
+      {
+        "year": 2020,
+        "visitors": 92069
+      },
+      {
+        "year": 2021,
+        "visitors": 114124
+      },
+      {
+        "year": 2022,
+        "visitors": 222628
+      },
+      {
+        "year": 2023,
+        "visitors": 304949
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "free",
+    "tags": [
+      "yangon",
+      "city"
+    ],
+    "imageQuery": "Sule Pagoda Yangon",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 250
+  },
+  {
+    "name": "Shwezigon Pagoda",
+    "slug": "shwezigon-pagoda-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Golden Stupa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        94.862,
+        21.195
+      ]
+    },
+    "description": "Prototype of Burmese stupas in Nyaung-U near Bagan, associated with early Bagan kings.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 271735
+      },
+      {
+        "year": 2020,
+        "visitors": 80674
+      },
+      {
+        "year": 2021,
+        "visitors": 97722
+      },
+      {
+        "year": 2022,
+        "visitors": 201148
+      },
+      {
+        "year": 2023,
+        "visitors": 264936
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "low",
+    "tags": [
+      "bagan",
+      "nyaung-u"
+    ],
+    "imageQuery": "Shwezigon Pagoda Bagan",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 1086
+  },
+  {
+    "name": "Ananda Temple",
+    "slug": "ananda-temple-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        94.867,
+        21.171
+      ]
+    },
+    "description": "Finest surviving temple of early Bagan, known for four standing Buddha images.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 215309
+      },
+      {
+        "year": 2020,
+        "visitors": 59197
+      },
+      {
+        "year": 2021,
+        "visitors": 74062
+      },
+      {
+        "year": 2022,
+        "visitors": 164654
+      },
+      {
+        "year": 2023,
+        "visitors": 215946
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "low",
+    "tags": [
+      "bagan",
+      "architecture"
+    ],
+    "imageQuery": "Ananda Temple Bagan",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 1105
+  },
+  {
+    "name": "Pindaya Cave Temple",
+    "slug": "pindaya-cave-temple-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Cave Temple",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        96.676,
+        20.841
+      ]
+    },
+    "description": "Limestone cave packed with thousands of Buddha images overlooking Pindaya town.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 97172
+      },
+      {
+        "year": 2020,
+        "visitors": 26751
+      },
+      {
+        "year": 2021,
+        "visitors": 33966
+      },
+      {
+        "year": 2022,
+        "visitors": 69076
+      },
+      {
+        "year": 2023,
+        "visitors": 89125
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "low",
+    "tags": [
+      "shan",
+      "cave"
+    ],
+    "imageQuery": "Pindaya Caves Myanmar",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 1773
+  },
+  {
+    "name": "Shwe Yan Pyay Monastery",
+    "slug": "shwe-yan-pyay-monastery-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Monastery",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        96.8,
+        20.65
+      ]
+    },
+    "description": "Teak monastery near Nyaungshwe famous for its oval windows overlooking Inle approaches.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 74254
+      },
+      {
+        "year": 2020,
+        "visitors": 20609
+      },
+      {
+        "year": 2021,
+        "visitors": 25939
+      },
+      {
+        "year": 2022,
+        "visitors": 54609
+      },
+      {
+        "year": 2023,
+        "visitors": 70474
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "free",
+    "tags": [
+      "inle",
+      "teak"
+    ],
+    "imageQuery": "Shwe Yan Pyay Monastery",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 1882
+  },
+  {
+    "name": "Inle Lake Stupa Trail",
+    "slug": "inle-lake-stupa-trail-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        96.91,
+        20.55
+      ]
+    },
+    "description": "Cluster of lakeside and hill stupas around Inle, including Phaung Daw Oo approaches.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 173560
+      },
+      {
+        "year": 2020,
+        "visitors": 50516
+      },
+      {
+        "year": 2021,
+        "visitors": 61275
+      },
+      {
+        "year": 2022,
+        "visitors": 129121
+      },
+      {
+        "year": 2023,
+        "visitors": 168665
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "low",
+    "tags": [
+      "inle",
+      "shan"
+    ],
+    "imageQuery": "Inle Lake pagodas Myanmar",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 1200
+  },
+  {
+    "name": "Kaunghmudaw Pagoda",
+    "slug": "kaunghmudaw-pagoda-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Golden Stupa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        95.98,
+        21.9
+      ]
+    },
+    "description": "Massive white dome pagoda near Sagaing, modeled after Sri Lanka's Ruwanwelisaya.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 107296
+      },
+      {
+        "year": 2020,
+        "visitors": 29728
+      },
+      {
+        "year": 2021,
+        "visitors": 39999
+      },
+      {
+        "year": 2022,
+        "visitors": 79492
+      },
+      {
+        "year": 2023,
+        "visitors": 101065
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "free",
+    "tags": [
+      "sagaing"
+    ],
+    "imageQuery": "Kaunghmudaw Pagoda Sagaing",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 1636
+  },
+  {
+    "name": "Po Win Daung Caves",
+    "slug": "po-win-daung-caves-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Cave Temple",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        94.43,
+        22.05
+      ]
+    },
+    "description": "Hillside cave temples near Monywa with mural-covered chambers and Buddha images.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 67565
+      },
+      {
+        "year": 2020,
+        "visitors": 18104
+      },
+      {
+        "year": 2021,
+        "visitors": 23117
+      },
+      {
+        "year": 2022,
+        "visitors": 45627
+      },
+      {
+        "year": 2023,
+        "visitors": 61966
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "low",
+    "tags": [
+      "monywa",
+      "murals"
+    ],
+    "imageQuery": "Po Win Daung caves",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 1300
+  },
+  {
+    "name": "Mingun Pahtodawgyi",
+    "slug": "mingun-pahtodawgyi-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        96.01,
+        22.05
+      ]
+    },
+    "description": "Unfinished giant brick stupa ruin across the river from Mandalay, earthquake-scarred.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 145549
+      },
+      {
+        "year": 2020,
+        "visitors": 38228
+      },
+      {
+        "year": 2021,
+        "visitors": 49722
+      },
+      {
+        "year": 2022,
+        "visitors": 99989
+      },
+      {
+        "year": 2023,
+        "visitors": 132351
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "low",
+    "tags": [
+      "mingun",
+      "ruins"
+    ],
+    "imageQuery": "Mingun Pagoda Myanmar",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 1790
+  },
+  {
+    "name": "Kyaikthanlan Pagoda",
+    "slug": "kyaikthanlan-pagoda-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Golden Stupa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        97.63,
+        16.48
+      ]
+    },
+    "description": "Tall golden stupa overlooking Mawlamyine and the estuary.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 86680
+      },
+      {
+        "year": 2020,
+        "visitors": 23187
+      },
+      {
+        "year": 2021,
+        "visitors": 30490
+      },
+      {
+        "year": 2022,
+        "visitors": 62699
+      },
+      {
+        "year": 2023,
+        "visitors": 78150
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "free",
+    "tags": [
+      "mawlamyine"
+    ],
+    "imageQuery": "Kyaikthanlan Pagoda Mawlamyine",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 875
+  },
+  {
+    "name": "Thanboddhay Temple",
+    "slug": "thanboddhay-temple-myanmar",
+    "country": "Myanmar",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        95.15,
+        22.12
+      ]
+    },
+    "description": "Temple complex near Monywa covered with tens of thousands of small Buddha images.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 67366
+      },
+      {
+        "year": 2020,
+        "visitors": 19026
+      },
+      {
+        "year": 2021,
+        "visitors": 24769
+      },
+      {
+        "year": 2022,
+        "visitors": 49918
+      },
+      {
+        "year": 2023,
+        "visitors": 65167
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "low",
+    "tags": [
+      "monywa"
+    ],
+    "imageQuery": "Thanboddhay Temple",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 1939
+  },
+  {
+    "name": "Bogyoke Aung San Market",
+    "slug": "bogyoke-aung-san-market-myanmar",
+    "country": "Myanmar",
+    "category": "Markets",
+    "type": "Street Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        96.155,
+        16.78
+      ]
+    },
+    "description": "Colonial-era covered market in Yangon for gems, textiles, and souvenirs.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 900484
+      },
+      {
+        "year": 2020,
+        "visitors": 252427
+      },
+      {
+        "year": 2021,
+        "visitors": 305009
+      },
+      {
+        "year": 2022,
+        "visitors": 673070
+      },
+      {
+        "year": 2023,
+        "visitors": 844644
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "free",
+    "tags": [
+      "yangon",
+      "shopping"
+    ],
+    "imageQuery": "Bogyoke Market Yangon",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z",
+    "establishedYear": 1926
+  },
+  {
+    "name": "Ngapali Beach",
+    "slug": "ngapali-beach-myanmar",
+    "country": "Myanmar",
+    "category": "Beaches",
+    "type": "Resort Beach",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        94.33,
+        18.43
+      ]
+    },
+    "description": "Palm-lined Bay of Bengal beach known as Myanmar's premier resort stretch.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 122576
+      },
+      {
+        "year": 2020,
+        "visitors": 32969
+      },
+      {
+        "year": 2021,
+        "visitors": 42559
+      },
+      {
+        "year": 2022,
+        "visitors": 89269
+      },
+      {
+        "year": 2023,
+        "visitors": 113693
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "free",
+    "tags": [
+      "rakhine",
+      "resort"
+    ],
+    "imageQuery": "Ngapali Beach Myanmar",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z"
+  },
+  {
+    "name": "Mount Victoria Nat Ma Taung",
+    "slug": "mount-victoria-nat-ma-taung-myanmar",
+    "country": "Myanmar",
+    "category": "Mountains & Highlands",
+    "type": "Trekking Peak",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        93.9,
+        21.23
+      ]
+    },
+    "description": "Highest peak in Chin State with rare birdlife and highland villages.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 24882
+      },
+      {
+        "year": 2020,
+        "visitors": 7236
+      },
+      {
+        "year": 2021,
+        "visitors": 8727
+      },
+      {
+        "year": 2022,
+        "visitors": 18687
+      },
+      {
+        "year": 2023,
+        "visitors": 23408
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "low",
+    "tags": [
+      "chin",
+      "trek"
+    ],
+    "imageQuery": "Nat Ma Taung Mount Victoria",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.341Z"
+  },
+  {
+    "name": "Anisakan Falls",
+    "slug": "anisakan-falls-myanmar",
+    "country": "Myanmar",
+    "category": "Waterfalls",
+    "type": "Multi-tier",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        96.5,
+        21.98
+      ]
+    },
+    "description": "Multi-tier waterfall near Pyin Oo Lwin popular for day trips from Mandalay.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 40941
+      },
+      {
+        "year": 2020,
+        "visitors": 11528
+      },
+      {
+        "year": 2021,
+        "visitors": 14272
+      },
+      {
+        "year": 2022,
+        "visitors": 28932
+      },
+      {
+        "year": 2023,
+        "visitors": 38993
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "free",
+    "tags": [
+      "pyin-oo-lwin"
+    ],
+    "imageQuery": "Anisakan Falls Myanmar",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Mrauk U Ruins",
+    "slug": "mrauk-u-ruins-myanmar",
+    "country": "Myanmar",
+    "category": "Heritage & Ruins",
+    "type": "Ancient City",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        93.2,
+        20.6
+      ]
+    },
+    "description": "Former Arakanese capital with stone temples scattered across rural hills.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 55137
+      },
+      {
+        "year": 2020,
+        "visitors": 15163
+      },
+      {
+        "year": 2021,
+        "visitors": 19009
+      },
+      {
+        "year": 2022,
+        "visitors": 39002
+      },
+      {
+        "year": 2023,
+        "visitors": 52027
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "low",
+    "tags": [
+      "rakhine",
+      "ruins"
+    ],
+    "imageQuery": "Mrauk U Myanmar ruins",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1430
+  },
+  {
+    "name": "Mergui Archipelago",
+    "slug": "mergui-archipelago-myanmar",
+    "country": "Myanmar",
+    "category": "Islands",
+    "type": "Island Group",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98,
+        11.5
+      ]
+    },
+    "description": "Remote Andaman island group with diving, beaches, and Moken communities.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 18096
+      },
+      {
+        "year": 2020,
+        "visitors": 5101
+      },
+      {
+        "year": 2021,
+        "visitors": 6080
+      },
+      {
+        "year": 2022,
+        "visitors": 12949
+      },
+      {
+        "year": 2023,
+        "visitors": 17040
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "high",
+    "tags": [
+      "andaman",
+      "diving"
+    ],
+    "imageQuery": "Mergui Archipelago Myanmar",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Inle Lake",
+    "slug": "inle-lake-myanmar",
+    "country": "Myanmar",
+    "category": "Lakes & Rivers",
+    "type": "Scenic River Cruise",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        96.92,
+        20.55
+      ]
+    },
+    "description": "Highland lake famous for floating gardens and leg-rowing fishermen.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 336266
+      },
+      {
+        "year": 2020,
+        "visitors": 99576
+      },
+      {
+        "year": 2021,
+        "visitors": 121405
+      },
+      {
+        "year": 2022,
+        "visitors": 250929
+      },
+      {
+        "year": 2023,
+        "visitors": 344102
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "low",
+    "tags": [
+      "shan",
+      "lake"
+    ],
+    "imageQuery": "Inle Lake Myanmar fishermen",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Yangon Night Bazaar",
+    "slug": "yangon-night-bazaar-myanmar",
+    "country": "Myanmar",
+    "category": "Markets",
+    "type": "Night Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        96.16,
+        16.79
+      ]
+    },
+    "description": "Evening street market stretch near downtown Yangon with street food stalls.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 194002
+      },
+      {
+        "year": 2020,
+        "visitors": 55679
+      },
+      {
+        "year": 2021,
+        "visitors": 68838
+      },
+      {
+        "year": 2022,
+        "visitors": 142974
+      },
+      {
+        "year": 2023,
+        "visitors": 186104
+      }
+    ],
+    "rating": 4.1,
+    "entranceFee": "free",
+    "tags": [
+      "yangon",
+      "food"
+    ],
+    "imageQuery": "Yangon night market street food",
+    "dataProvenance": "invented",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 2010
+  },
+  {
+    "name": "Chaung Tha Beach",
+    "slug": "chaung-tha-beach-myanmar",
+    "country": "Myanmar",
+    "category": "Beaches",
+    "type": "White Sand",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        94.45,
+        17
+      ]
+    },
+    "description": "Popular domestic beach destination west of Yangon with sandy shores.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 178066
+      },
+      {
+        "year": 2020,
+        "visitors": 51248
+      },
+      {
+        "year": 2021,
+        "visitors": 65195
+      },
+      {
+        "year": 2022,
+        "visitors": 124601
+      },
+      {
+        "year": 2023,
+        "visitors": 170698
+      }
+    ],
+    "rating": 4,
+    "entranceFee": "free",
+    "tags": [
+      "ayingyi"
+    ],
+    "imageQuery": "Chaung Tha Beach Myanmar",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Wat Pho",
+    "slug": "wat-pho-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.494,
+        13.746
+      ]
+    },
+    "description": "Bangkok temple home to the giant Reclining Buddha and traditional massage school.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 3590046
+      },
+      {
+        "year": 2020,
+        "visitors": 982564
+      },
+      {
+        "year": 2021,
+        "visitors": 1188346
+      },
+      {
+        "year": 2022,
+        "visitors": 2499904
+      },
+      {
+        "year": 2023,
+        "visitors": 3226262
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "low",
+    "tags": [
+      "bangkok",
+      "buddha"
+    ],
+    "imageQuery": "Wat Pho Reclining Buddha",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1788
+  },
+  {
+    "name": "Wat Arun",
+    "slug": "wat-arun-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.489,
+        13.744
+      ]
+    },
+    "description": "Temple of Dawn on the Chao Phraya with intricate porcelain-decorated prang.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 2869983
+      },
+      {
+        "year": 2020,
+        "visitors": 777207
+      },
+      {
+        "year": 2021,
+        "visitors": 946778
+      },
+      {
+        "year": 2022,
+        "visitors": 2031745
+      },
+      {
+        "year": 2023,
+        "visitors": 2625241
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "low",
+    "tags": [
+      "bangkok",
+      "river"
+    ],
+    "imageQuery": "Wat Arun Bangkok",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1656
+  },
+  {
+    "name": "Doisuthep Temple",
+    "slug": "doisuthep-temple-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.921,
+        18.805
+      ]
+    },
+    "description": "Hilltop wat overlooking Chiang Mai, reached by a long naga staircase.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1176346
+      },
+      {
+        "year": 2020,
+        "visitors": 332948
+      },
+      {
+        "year": 2021,
+        "visitors": 413753
+      },
+      {
+        "year": 2022,
+        "visitors": 872055
+      },
+      {
+        "year": 2023,
+        "visitors": 1113025
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "low",
+    "tags": [
+      "chiang-mai"
+    ],
+    "imageQuery": "Doi Suthep Chiang Mai",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1383
+  },
+  {
+    "name": "White Temple Wat Rong Khun",
+    "slug": "white-temple-wat-rong-khun-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.763,
+        19.824
+      ]
+    },
+    "description": "Contemporary white mirrored temple near Chiang Rai by artist Chalermchai Kositpipat.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 884481
+      },
+      {
+        "year": 2020,
+        "visitors": 261861
+      },
+      {
+        "year": 2021,
+        "visitors": 307349
+      },
+      {
+        "year": 2022,
+        "visitors": 656390
+      },
+      {
+        "year": 2023,
+        "visitors": 855970
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "low",
+    "tags": [
+      "chiang-rai",
+      "art"
+    ],
+    "imageQuery": "Wat Rong Khun White Temple",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1997
+  },
+  {
+    "name": "Wat Phra Kaew",
+    "slug": "wat-phra-kaew-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.4927,
+        13.751
+      ]
+    },
+    "description": "Temple of the Emerald Buddha within Bangkok's Grand Palace complex.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 4091060
+      },
+      {
+        "year": 2020,
+        "visitors": 1086594
+      },
+      {
+        "year": 2021,
+        "visitors": 1384111
+      },
+      {
+        "year": 2022,
+        "visitors": 2816033
+      },
+      {
+        "year": 2023,
+        "visitors": 3738839
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "medium",
+    "tags": [
+      "bangkok",
+      "emerald-buddha"
+    ],
+    "imageQuery": "Wat Phra Kaew Emerald Buddha",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1782
+  },
+  {
+    "name": "Wat Traimit",
+    "slug": "wat-traimit-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Golden Stupa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.514,
+        13.738
+      ]
+    },
+    "description": "Temple of the Golden Buddha — solid gold seated Buddha in Chinatown Bangkok.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 876110
+      },
+      {
+        "year": 2020,
+        "visitors": 261202
+      },
+      {
+        "year": 2021,
+        "visitors": 320689
+      },
+      {
+        "year": 2022,
+        "visitors": 652630
+      },
+      {
+        "year": 2023,
+        "visitors": 856205
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "low",
+    "tags": [
+      "bangkok",
+      "chinatown"
+    ],
+    "imageQuery": "Wat Traimit Golden Buddha",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Wat Benchamabophit",
+    "slug": "wat-benchamabophit-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Monastery",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.5145,
+        13.7665
+      ]
+    },
+    "description": "Marble Temple of Bangkok with Carrara marble and elegant cloisters.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 449614
+      },
+      {
+        "year": 2020,
+        "visitors": 124649
+      },
+      {
+        "year": 2021,
+        "visitors": 154896
+      },
+      {
+        "year": 2022,
+        "visitors": 321144
+      },
+      {
+        "year": 2023,
+        "visitors": 424370
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "low",
+    "tags": [
+      "bangkok",
+      "marble"
+    ],
+    "imageQuery": "Wat Benchamabophit Marble Temple",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1899
+  },
+  {
+    "name": "Wat Phra That Doi Suthep Golden Chedi",
+    "slug": "wat-phra-that-doi-suthep-golden-chedi-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Golden Stupa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.9215,
+        18.8048
+      ]
+    },
+    "description": "Gilded chedi at Doi Suthep, one of northern Thailand's holiest stupas.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1093779
+      },
+      {
+        "year": 2020,
+        "visitors": 303612
+      },
+      {
+        "year": 2021,
+        "visitors": 380462
+      },
+      {
+        "year": 2022,
+        "visitors": 767203
+      },
+      {
+        "year": 2023,
+        "visitors": 1064150
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "low",
+    "tags": [
+      "chiang-mai",
+      "chedi"
+    ],
+    "imageQuery": "Doi Suthep golden chedi",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1383
+  },
+  {
+    "name": "Wat Chedi Luang",
+    "slug": "wat-chedi-luang-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.986,
+        18.787
+      ]
+    },
+    "description": "Massive ruined chedi in Chiang Mai's old city, once home to the Emerald Buddha.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 694924
+      },
+      {
+        "year": 2020,
+        "visitors": 188319
+      },
+      {
+        "year": 2021,
+        "visitors": 242083
+      },
+      {
+        "year": 2022,
+        "visitors": 505472
+      },
+      {
+        "year": 2023,
+        "visitors": 648602
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "free",
+    "tags": [
+      "chiang-mai"
+    ],
+    "imageQuery": "Wat Chedi Luang Chiang Mai",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1400
+  },
+  {
+    "name": "Wat Phra Singh",
+    "slug": "wat-phra-singh-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.981,
+        18.7885
+      ]
+    },
+    "description": "Important Lanna-style temple housing the revered Phra Singh Buddha image.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 566293
+      },
+      {
+        "year": 2020,
+        "visitors": 159087
+      },
+      {
+        "year": 2021,
+        "visitors": 199659
+      },
+      {
+        "year": 2022,
+        "visitors": 405328
+      },
+      {
+        "year": 2023,
+        "visitors": 511346
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "free",
+    "tags": [
+      "chiang-mai",
+      "lanna"
+    ],
+    "imageQuery": "Wat Phra Singh Chiang Mai",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1345
+  },
+  {
+    "name": "Blue Temple Wat Rong Suea Ten",
+    "slug": "blue-temple-wat-rong-suea-ten-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.803,
+        19.915
+      ]
+    },
+    "description": "Vivid blue contemporary temple in Chiang Rai with ornate modern Buddhist art.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 650516
+      },
+      {
+        "year": 2020,
+        "visitors": 177592
+      },
+      {
+        "year": 2021,
+        "visitors": 234258
+      },
+      {
+        "year": 2022,
+        "visitors": 479694
+      },
+      {
+        "year": 2023,
+        "visitors": 641443
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "free",
+    "tags": [
+      "chiang-rai",
+      "blue-temple"
+    ],
+    "imageQuery": "Wat Rong Suea Ten Blue Temple",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 2005
+  },
+  {
+    "name": "Wat Phra That Lampang Luang",
+    "slug": "wat-phra-that-lampang-luang-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.4,
+        18.22
+      ]
+    },
+    "description": "Ancient fortified temple complex near Lampang with teak chapels and a sacred chedi.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 276511
+      },
+      {
+        "year": 2020,
+        "visitors": 79205
+      },
+      {
+        "year": 2021,
+        "visitors": 99369
+      },
+      {
+        "year": 2022,
+        "visitors": 207929
+      },
+      {
+        "year": 2023,
+        "visitors": 257975
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "free",
+    "tags": [
+      "lampang"
+    ],
+    "imageQuery": "Wat Phra That Lampang Luang",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Wat Mahathat Bangkok",
+    "slug": "wat-mahathat-bangkok-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Monastery",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.49,
+        13.755
+      ]
+    },
+    "description": "Royal monastery and Buddhist university near the Grand Palace.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 202880
+      },
+      {
+        "year": 2020,
+        "visitors": 58225
+      },
+      {
+        "year": 2021,
+        "visitors": 72664
+      },
+      {
+        "year": 2022,
+        "visitors": 139741
+      },
+      {
+        "year": 2023,
+        "visitors": 188011
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "free",
+    "tags": [
+      "bangkok"
+    ],
+    "imageQuery": "Wat Mahathat Bangkok",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1782
+  },
+  {
+    "name": "Phra Pathom Chedi",
+    "slug": "phra-pathom-chedi-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Golden Stupa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.119,
+        13.819
+      ]
+    },
+    "description": "Tallest stupa in Thailand at Nakhon Pathom, a major Buddhist pilgrimage site.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 481617
+      },
+      {
+        "year": 2020,
+        "visitors": 140480
+      },
+      {
+        "year": 2021,
+        "visitors": 170446
+      },
+      {
+        "year": 2022,
+        "visitors": 360152
+      },
+      {
+        "year": 2023,
+        "visitors": 461932
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "low",
+    "tags": [
+      "nakhon-pathom"
+    ],
+    "imageQuery": "Phra Pathom Chedi",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Wat Phu Khao Thong Golden Mount",
+    "slug": "wat-phu-khao-thong-golden-mount-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.514,
+        13.753
+      ]
+    },
+    "description": "Golden Mount chedi offering panoramic views over historic Bangkok.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 614065
+      },
+      {
+        "year": 2020,
+        "visitors": 164642
+      },
+      {
+        "year": 2021,
+        "visitors": 205238
+      },
+      {
+        "year": 2022,
+        "visitors": 426387
+      },
+      {
+        "year": 2023,
+        "visitors": 581192
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "low",
+    "tags": [
+      "bangkok"
+    ],
+    "imageQuery": "Wat Saket Golden Mount",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Wat Chaiwatthanaram",
+    "slug": "wat-chaiwatthanaram-thailand",
+    "country": "Thailand",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.539,
+        14.343
+      ]
+    },
+    "description": "Riverside Khmer-influenced prang temple ruin in Ayutthaya.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 397257
+      },
+      {
+        "year": 2020,
+        "visitors": 116099
+      },
+      {
+        "year": 2021,
+        "visitors": 140840
+      },
+      {
+        "year": 2022,
+        "visitors": 286891
+      },
+      {
+        "year": 2023,
+        "visitors": 384174
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "low",
+    "tags": [
+      "ayutthaya"
+    ],
+    "imageQuery": "Wat Chaiwatthanaram Ayutthaya",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1630
+  },
+  {
+    "name": "Chatuchak Weekend Market",
+    "slug": "chatuchak-weekend-market-thailand",
+    "country": "Thailand",
+    "category": "Markets",
+    "type": "Flea Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.55,
+        13.8
+      ]
+    },
+    "description": "One of the world's largest weekend markets with thousands of stalls in Bangkok.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 5174879
+      },
+      {
+        "year": 2020,
+        "visitors": 1399180
+      },
+      {
+        "year": 2021,
+        "visitors": 1744416
+      },
+      {
+        "year": 2022,
+        "visitors": 3480603
+      },
+      {
+        "year": 2023,
+        "visitors": 4846264
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "free",
+    "tags": [
+      "bangkok",
+      "shopping"
+    ],
+    "imageQuery": "Chatuchak Market Bangkok",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1948
+  },
+  {
+    "name": "Damnoen Saduak Floating Market",
+    "slug": "damnoen-saduak-floating-market-thailand",
+    "country": "Thailand",
+    "category": "Markets",
+    "type": "Floating Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.959,
+        13.518
+      ]
+    },
+    "description": "Iconic canal market west of Bangkok with boat vendors selling produce and snacks.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1458154
+      },
+      {
+        "year": 2020,
+        "visitors": 422415
+      },
+      {
+        "year": 2021,
+        "visitors": 529463
+      },
+      {
+        "year": 2022,
+        "visitors": 1066541
+      },
+      {
+        "year": 2023,
+        "visitors": 1412368
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "free",
+    "tags": [
+      "ratchaburi",
+      "boats"
+    ],
+    "imageQuery": "Damnoen Saduak floating market",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Chiang Mai Night Bazaar",
+    "slug": "chiang-mai-night-bazaar-thailand",
+    "country": "Thailand",
+    "category": "Markets",
+    "type": "Night Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.999,
+        18.787
+      ]
+    },
+    "description": "Long-running night market corridor for crafts, clothes, and northern Thai food.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1759982
+      },
+      {
+        "year": 2020,
+        "visitors": 516731
+      },
+      {
+        "year": 2021,
+        "visitors": 629074
+      },
+      {
+        "year": 2022,
+        "visitors": 1311490
+      },
+      {
+        "year": 2023,
+        "visitors": 1711242
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "free",
+    "tags": [
+      "chiang-mai"
+    ],
+    "imageQuery": "Chiang Mai Night Bazaar",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Maya Bay",
+    "slug": "maya-bay-thailand",
+    "country": "Thailand",
+    "category": "Beaches",
+    "type": "White Sand",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.778,
+        7.677
+      ]
+    },
+    "description": "Famous Phi Phi beach framed by limestone cliffs; periodically closed for recovery.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 771647
+      },
+      {
+        "year": 2020,
+        "visitors": 226334
+      },
+      {
+        "year": 2021,
+        "visitors": 283909
+      },
+      {
+        "year": 2022,
+        "visitors": 559967
+      },
+      {
+        "year": 2023,
+        "visitors": 778354
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "medium",
+    "tags": [
+      "phi-phi",
+      "limestone"
+    ],
+    "imageQuery": "Maya Bay Phi Phi",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Railay Beach",
+    "slug": "railay-beach-thailand",
+    "country": "Thailand",
+    "category": "Beaches",
+    "type": "Rocky Coast",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.84,
+        8.01
+      ]
+    },
+    "description": "Clifftop-access beach peninsula near Krabi prized for climbing and kayaking.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 586239
+      },
+      {
+        "year": 2020,
+        "visitors": 161945
+      },
+      {
+        "year": 2021,
+        "visitors": 209321
+      },
+      {
+        "year": 2022,
+        "visitors": 440230
+      },
+      {
+        "year": 2023,
+        "visitors": 591146
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "free",
+    "tags": [
+      "krabi",
+      "climbing"
+    ],
+    "imageQuery": "Railay Beach Krabi",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Patong Beach",
+    "slug": "patong-beach-thailand",
+    "country": "Thailand",
+    "category": "Beaches",
+    "type": "Resort Beach",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.296,
+        7.896
+      ]
+    },
+    "description": "Bustling Phuket resort beach with nightlife and water sports.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 2206268
+      },
+      {
+        "year": 2020,
+        "visitors": 593455
+      },
+      {
+        "year": 2021,
+        "visitors": 778997
+      },
+      {
+        "year": 2022,
+        "visitors": 1568958
+      },
+      {
+        "year": 2023,
+        "visitors": 2089770
+      }
+    ],
+    "rating": 4,
+    "entranceFee": "free",
+    "tags": [
+      "phuket"
+    ],
+    "imageQuery": "Patong Beach Phuket",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Surin Beach",
+    "slug": "surin-beach-thailand",
+    "country": "Thailand",
+    "category": "Beaches",
+    "type": "Surfing",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.275,
+        7.983
+      ]
+    },
+    "description": "Quieter Phuket beach with seasonal surf breaks and boutique resorts.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 346278
+      },
+      {
+        "year": 2020,
+        "visitors": 97065
+      },
+      {
+        "year": 2021,
+        "visitors": 125889
+      },
+      {
+        "year": 2022,
+        "visitors": 258979
+      },
+      {
+        "year": 2023,
+        "visitors": 343528
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "free",
+    "tags": [
+      "phuket",
+      "surf"
+    ],
+    "imageQuery": "Surin Beach Phuket",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Similan Islands",
+    "slug": "similan-islands-thailand",
+    "country": "Thailand",
+    "category": "Beaches",
+    "type": "Diving/Snorkeling",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        97.645,
+        8.65
+      ]
+    },
+    "description": "Andaman dive paradise with granite boulders and clear coral gardens.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 281192
+      },
+      {
+        "year": 2020,
+        "visitors": 75592
+      },
+      {
+        "year": 2021,
+        "visitors": 99827
+      },
+      {
+        "year": 2022,
+        "visitors": 197742
+      },
+      {
+        "year": 2023,
+        "visitors": 268462
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "high",
+    "tags": [
+      "andaman",
+      "diving"
+    ],
+    "imageQuery": "Similan Islands diving",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Doi Inthanon",
+    "slug": "doi-inthanon-thailand",
+    "country": "Thailand",
+    "category": "Mountains & Highlands",
+    "type": "Trekking Peak",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.487,
+        18.588
+      ]
+    },
+    "description": "Thailand's highest peak with cloud forests, waterfalls, and twin chedis.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 432834
+      },
+      {
+        "year": 2020,
+        "visitors": 125682
+      },
+      {
+        "year": 2021,
+        "visitors": 159218
+      },
+      {
+        "year": 2022,
+        "visitors": 333831
+      },
+      {
+        "year": 2023,
+        "visitors": 421913
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "low",
+    "tags": [
+      "chiang-mai",
+      "summit"
+    ],
+    "imageQuery": "Doi Inthanon summit",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Tee Lor Su Waterfall",
+    "slug": "tee-lor-su-waterfall-thailand",
+    "country": "Thailand",
+    "category": "Waterfalls",
+    "type": "Multi-tier",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.73,
+        15.93
+      ]
+    },
+    "description": "One of Thailand's largest and most dramatic multi-tier jungle waterfalls.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 123684
+      },
+      {
+        "year": 2020,
+        "visitors": 34844
+      },
+      {
+        "year": 2021,
+        "visitors": 41837
+      },
+      {
+        "year": 2022,
+        "visitors": 86265
+      },
+      {
+        "year": 2023,
+        "visitors": 117527
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "low",
+    "tags": [
+      "tak",
+      "jungle"
+    ],
+    "imageQuery": "Tee Lor Su waterfall",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Ayutthaya Historic Park",
+    "slug": "ayutthaya-historic-park-thailand",
+    "country": "Thailand",
+    "category": "Heritage & Ruins",
+    "type": "UNESCO Site",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.569,
+        14.355
+      ]
+    },
+    "description": "Ruins of the former Siamese capital with towering prangs and Buddha images.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1539199
+      },
+      {
+        "year": 2020,
+        "visitors": 431403
+      },
+      {
+        "year": 2021,
+        "visitors": 559139
+      },
+      {
+        "year": 2022,
+        "visitors": 1156430
+      },
+      {
+        "year": 2023,
+        "visitors": 1508504
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "low",
+    "tags": [
+      "ayutthaya",
+      "unesco"
+    ],
+    "imageQuery": "Ayutthaya Historic Park",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1350
+  },
+  {
+    "name": "Sukhothai Historical Park",
+    "slug": "sukhothai-historical-park-thailand",
+    "country": "Thailand",
+    "category": "Heritage & Ruins",
+    "type": "Ancient City",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.79,
+        17.01
+      ]
+    },
+    "description": "Cradle of Thai civilization with serene Buddha statues among temple ruins.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 501776
+      },
+      {
+        "year": 2020,
+        "visitors": 141845
+      },
+      {
+        "year": 2021,
+        "visitors": 176170
+      },
+      {
+        "year": 2022,
+        "visitors": 363485
+      },
+      {
+        "year": 2023,
+        "visitors": 460926
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "low",
+    "tags": [
+      "sukhothai",
+      "unesco"
+    ],
+    "imageQuery": "Sukhothai Historical Park",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1238
+  },
+  {
+    "name": "Phi Phi Islands",
+    "slug": "phi-phi-islands-thailand",
+    "country": "Thailand",
+    "category": "Islands",
+    "type": "Island Group",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.78,
+        7.74
+      ]
+    },
+    "description": "Limestone island group in the Andaman with beaches, viewpoints, and diving.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1430763
+      },
+      {
+        "year": 2020,
+        "visitors": 401588
+      },
+      {
+        "year": 2021,
+        "visitors": 508465
+      },
+      {
+        "year": 2022,
+        "visitors": 1002595
+      },
+      {
+        "year": 2023,
+        "visitors": 1286185
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "medium",
+    "tags": [
+      "krabi",
+      "andaman"
+    ],
+    "imageQuery": "Phi Phi Islands Thailand",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Chao Phraya River Cruise",
+    "slug": "chao-phraya-river-cruise-thailand",
+    "country": "Thailand",
+    "category": "Lakes & Rivers",
+    "type": "Scenic River Cruise",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.49,
+        13.75
+      ]
+    },
+    "description": "Evening and daytime cruises past Bangkok temples and colonial facades.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 895825
+      },
+      {
+        "year": 2020,
+        "visitors": 261713
+      },
+      {
+        "year": 2021,
+        "visitors": 326818
+      },
+      {
+        "year": 2022,
+        "visitors": 643052
+      },
+      {
+        "year": 2023,
+        "visitors": 843411
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "medium",
+    "tags": [
+      "bangkok",
+      "river"
+    ],
+    "imageQuery": "Chao Phraya dinner cruise",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Perfume Pagoda",
+    "slug": "perfume-pagoda-vietnam",
+    "country": "Vietnam",
+    "category": "Pagodas & Temples",
+    "type": "Cave Temple",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        105.75,
+        20.62
+      ]
+    },
+    "description": "Pilgrimage complex of shrines and a fragrant limestone cave southwest of Hanoi.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 831405
+      },
+      {
+        "year": 2020,
+        "visitors": 229320
+      },
+      {
+        "year": 2021,
+        "visitors": 277174
+      },
+      {
+        "year": 2022,
+        "visitors": 567107
+      },
+      {
+        "year": 2023,
+        "visitors": 733923
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "low",
+    "tags": [
+      "hanoi",
+      "pilgrimage"
+    ],
+    "imageQuery": "Perfume Pagoda Vietnam",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "One Pillar Pagoda",
+    "slug": "one-pillar-pagoda-vietnam",
+    "country": "Vietnam",
+    "category": "Pagodas & Temples",
+    "type": "Monastery",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        105.833,
+        21.035
+      ]
+    },
+    "description": "Iconic wooden lotus-shaped pagoda rising from a pond in Hanoi.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 620615
+      },
+      {
+        "year": 2020,
+        "visitors": 169725
+      },
+      {
+        "year": 2021,
+        "visitors": 217095
+      },
+      {
+        "year": 2022,
+        "visitors": 440409
+      },
+      {
+        "year": 2023,
+        "visitors": 585985
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "free",
+    "tags": [
+      "hanoi"
+    ],
+    "imageQuery": "One Pillar Pagoda Hanoi",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1049
+  },
+  {
+    "name": "Ben Thanh Market",
+    "slug": "ben-thanh-market-vietnam",
+    "country": "Vietnam",
+    "category": "Markets",
+    "type": "Wet Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        106.698,
+        10.772
+      ]
+    },
+    "description": "Saigon's landmark covered market for food, crafts, and late-night stalls.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 2429327
+      },
+      {
+        "year": 2020,
+        "visitors": 698616
+      },
+      {
+        "year": 2021,
+        "visitors": 843962
+      },
+      {
+        "year": 2022,
+        "visitors": 1770610
+      },
+      {
+        "year": 2023,
+        "visitors": 2327553
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "free",
+    "tags": [
+      "ho-chi-minh"
+    ],
+    "imageQuery": "Ben Thanh Market Saigon",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1914
+  },
+  {
+    "name": "Hoi An Night Market",
+    "slug": "hoi-an-night-market-vietnam",
+    "country": "Vietnam",
+    "category": "Markets",
+    "type": "Night Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        108.332,
+        15.877
+      ]
+    },
+    "description": "Lantern-lit riverside night market in the ancient town of Hoi An.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1093708
+      },
+      {
+        "year": 2020,
+        "visitors": 313694
+      },
+      {
+        "year": 2021,
+        "visitors": 391839
+      },
+      {
+        "year": 2022,
+        "visitors": 775680
+      },
+      {
+        "year": 2023,
+        "visitors": 1039062
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "free",
+    "tags": [
+      "hoi-an"
+    ],
+    "imageQuery": "Hoi An night market lanterns",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "My Khe Beach",
+    "slug": "my-khe-beach-vietnam",
+    "country": "Vietnam",
+    "category": "Beaches",
+    "type": "White Sand",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        108.246,
+        16.06
+      ]
+    },
+    "description": "Long sandy beach at Da Nang popular with surfers and city visitors.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 920945
+      },
+      {
+        "year": 2020,
+        "visitors": 254514
+      },
+      {
+        "year": 2021,
+        "visitors": 314833
+      },
+      {
+        "year": 2022,
+        "visitors": 663608
+      },
+      {
+        "year": 2023,
+        "visitors": 876284
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "free",
+    "tags": [
+      "da-nang"
+    ],
+    "imageQuery": "My Khe Beach Da Nang",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Phu Quoc",
+    "slug": "phu-quoc-vietnam",
+    "country": "Vietnam",
+    "category": "Beaches",
+    "type": "Resort Beach",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.98,
+        10.23
+      ]
+    },
+    "description": "Island resort beaches in the Gulf of Thailand with snorkeling and nightlife.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1472252
+      },
+      {
+        "year": 2020,
+        "visitors": 410432
+      },
+      {
+        "year": 2021,
+        "visitors": 531642
+      },
+      {
+        "year": 2022,
+        "visitors": 1056871
+      },
+      {
+        "year": 2023,
+        "visitors": 1411358
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "free",
+    "tags": [
+      "phu-quoc"
+    ],
+    "imageQuery": "Phu Quoc beach Vietnam",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Sapa Terraces",
+    "slug": "sapa-terraces-vietnam",
+    "country": "Vietnam",
+    "category": "Mountains & Highlands",
+    "type": "Viewpoint/Hill Station",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.844,
+        22.34
+      ]
+    },
+    "description": "Misty highland town and rice terrace treks among Hmong and Dao villages.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 685563
+      },
+      {
+        "year": 2020,
+        "visitors": 197936
+      },
+      {
+        "year": 2021,
+        "visitors": 237549
+      },
+      {
+        "year": 2022,
+        "visitors": 508196
+      },
+      {
+        "year": 2023,
+        "visitors": 658111
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "low",
+    "tags": [
+      "sapa",
+      "trek"
+    ],
+    "imageQuery": "Sapa rice terraces Vietnam",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Fansipan Peak",
+    "slug": "fansipan-peak-vietnam",
+    "country": "Vietnam",
+    "category": "Mountains & Highlands",
+    "type": "Trekking Peak",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.775,
+        22.303
+      ]
+    },
+    "description": "Indochina's roof — cable car or trek to the summit above Sapa.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 436504
+      },
+      {
+        "year": 2020,
+        "visitors": 126346
+      },
+      {
+        "year": 2021,
+        "visitors": 156097
+      },
+      {
+        "year": 2022,
+        "visitors": 321228
+      },
+      {
+        "year": 2023,
+        "visitors": 442286
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "medium",
+    "tags": [
+      "sapa",
+      "summit"
+    ],
+    "imageQuery": "Fansipan Peak Vietnam",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Ban Gioc Waterfall",
+    "slug": "ban-gioc-waterfall-vietnam",
+    "country": "Vietnam",
+    "category": "Waterfalls",
+    "type": "Multi-tier",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        106.72,
+        22.85
+      ]
+    },
+    "description": "Wide multi-tier falls on the Vietnam–China border in Cao Bang.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 192448
+      },
+      {
+        "year": 2020,
+        "visitors": 54195
+      },
+      {
+        "year": 2021,
+        "visitors": 68680
+      },
+      {
+        "year": 2022,
+        "visitors": 146253
+      },
+      {
+        "year": 2023,
+        "visitors": 195259
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "low",
+    "tags": [
+      "cao-bang"
+    ],
+    "imageQuery": "Ban Gioc Waterfall",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Ha Long Bay",
+    "slug": "ha-long-bay-vietnam",
+    "country": "Vietnam",
+    "category": "Heritage & Ruins",
+    "type": "UNESCO Site",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        107.05,
+        20.91
+      ]
+    },
+    "description": "Karst seascape of thousands of limestone islets — Vietnam's signature cruise.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 4008178
+      },
+      {
+        "year": 2020,
+        "visitors": 1075908
+      },
+      {
+        "year": 2021,
+        "visitors": 1432579
+      },
+      {
+        "year": 2022,
+        "visitors": 2853195
+      },
+      {
+        "year": 2023,
+        "visitors": 3687362
+      }
+    ],
+    "rating": 4.9,
+    "entranceFee": "medium",
+    "tags": [
+      "unesco",
+      "cruise"
+    ],
+    "imageQuery": "Ha Long Bay Vietnam",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Hoi An Ancient Town",
+    "slug": "hoi-an-ancient-town-vietnam",
+    "country": "Vietnam",
+    "category": "Heritage & Ruins",
+    "type": "UNESCO Site",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        108.328,
+        15.88
+      ]
+    },
+    "description": "Lantern-lit trading port with Chinese, Japanese, and French architectural layers.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 2139660
+      },
+      {
+        "year": 2020,
+        "visitors": 610436
+      },
+      {
+        "year": 2021,
+        "visitors": 741532
+      },
+      {
+        "year": 2022,
+        "visitors": 1555147
+      },
+      {
+        "year": 2023,
+        "visitors": 2120757
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "low",
+    "tags": [
+      "unesco",
+      "lanterns"
+    ],
+    "imageQuery": "Hoi An Ancient Town",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Hue Imperial City",
+    "slug": "hue-imperial-city-vietnam",
+    "country": "Vietnam",
+    "category": "Heritage & Ruins",
+    "type": "Ancient City",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        107.578,
+        16.47
+      ]
+    },
+    "description": "Nguyen Dynasty citadel and palace complex along the Perfume River.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1171107
+      },
+      {
+        "year": 2020,
+        "visitors": 323932
+      },
+      {
+        "year": 2021,
+        "visitors": 426754
+      },
+      {
+        "year": 2022,
+        "visitors": 881937
+      },
+      {
+        "year": 2023,
+        "visitors": 1103119
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "medium",
+    "tags": [
+      "hue",
+      "unesco"
+    ],
+    "imageQuery": "Hue Imperial City",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1802
+  },
+  {
+    "name": "Con Dao Islands",
+    "slug": "con-dao-islands-vietnam",
+    "country": "Vietnam",
+    "category": "Islands",
+    "type": "National Marine Park",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        106.6,
+        8.68
+      ]
+    },
+    "description": "Remote national park islands with prisons history, beaches, and diving.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 123565
+      },
+      {
+        "year": 2020,
+        "visitors": 33733
+      },
+      {
+        "year": 2021,
+        "visitors": 42023
+      },
+      {
+        "year": 2022,
+        "visitors": 88255
+      },
+      {
+        "year": 2023,
+        "visitors": 118447
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "medium",
+    "tags": [
+      "con-dao"
+    ],
+    "imageQuery": "Con Dao Islands Vietnam",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Mekong Delta Cruise",
+    "slug": "mekong-delta-cruise-vietnam",
+    "country": "Vietnam",
+    "category": "Lakes & Rivers",
+    "type": "River Delta",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        105.95,
+        10.35
+      ]
+    },
+    "description": "Floating markets and orchard canals of the Mekong Delta near Can Tho.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 786490
+      },
+      {
+        "year": 2020,
+        "visitors": 228127
+      },
+      {
+        "year": 2021,
+        "visitors": 275230
+      },
+      {
+        "year": 2022,
+        "visitors": 577344
+      },
+      {
+        "year": 2023,
+        "visitors": 770016
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "medium",
+    "tags": [
+      "mekong",
+      "delta"
+    ],
+    "imageQuery": "Mekong Delta floating market",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Perfume River Hue",
+    "slug": "perfume-river-hue-vietnam",
+    "country": "Vietnam",
+    "category": "Lakes & Rivers",
+    "type": "Scenic River Cruise",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        107.58,
+        16.47
+      ]
+    },
+    "description": "Scenic boat rides past pagodas and royal tombs in Hue.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 488597
+      },
+      {
+        "year": 2020,
+        "visitors": 138902
+      },
+      {
+        "year": 2021,
+        "visitors": 176195
+      },
+      {
+        "year": 2022,
+        "visitors": 362925
+      },
+      {
+        "year": 2023,
+        "visitors": 466345
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "low",
+    "tags": [
+      "hue",
+      "river"
+    ],
+    "imageQuery": "Perfume River Hue cruise",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Angkor Wat",
+    "slug": "angkor-wat-cambodia",
+    "country": "Cambodia",
+    "category": "Heritage & Ruins",
+    "type": "UNESCO Site",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.867,
+        13.4125
+      ]
+    },
+    "description": "World's largest religious monument — Khmer temple city at sunrise.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 2535924
+      },
+      {
+        "year": 2020,
+        "visitors": 691560
+      },
+      {
+        "year": 2021,
+        "visitors": 874080
+      },
+      {
+        "year": 2022,
+        "visitors": 1800795
+      },
+      {
+        "year": 2023,
+        "visitors": 2344265
+      }
+    ],
+    "rating": 4.9,
+    "entranceFee": "high",
+    "tags": [
+      "siem-reap",
+      "unesco"
+    ],
+    "imageQuery": "Angkor Wat sunrise",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1150
+  },
+  {
+    "name": "Angkor Thom",
+    "slug": "angkor-thom-cambodia",
+    "country": "Cambodia",
+    "category": "Heritage & Ruins",
+    "type": "Ancient City",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.859,
+        13.441
+      ]
+    },
+    "description": "Walled royal city including Bayon's smiling faces and Terrace of the Elephants.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1831695
+      },
+      {
+        "year": 2020,
+        "visitors": 515166
+      },
+      {
+        "year": 2021,
+        "visitors": 649000
+      },
+      {
+        "year": 2022,
+        "visitors": 1289454
+      },
+      {
+        "year": 2023,
+        "visitors": 1700850
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "high",
+    "tags": [
+      "siem-reap"
+    ],
+    "imageQuery": "Angkor Thom Bayon",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1181
+  },
+  {
+    "name": "Ta Prohm",
+    "slug": "ta-prohm-cambodia",
+    "country": "Cambodia",
+    "category": "Heritage & Ruins",
+    "type": "UNESCO Site",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.889,
+        13.435
+      ]
+    },
+    "description": "Temple overtaken by silk-cotton tree roots — atmospheric jungle ruin.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1576518
+      },
+      {
+        "year": 2020,
+        "visitors": 435246
+      },
+      {
+        "year": 2021,
+        "visitors": 557327
+      },
+      {
+        "year": 2022,
+        "visitors": 1175208
+      },
+      {
+        "year": 2023,
+        "visitors": 1575684
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "high",
+    "tags": [
+      "siem-reap",
+      "roots"
+    ],
+    "imageQuery": "Ta Prohm temple trees",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1186
+  },
+  {
+    "name": "Wat Phnom",
+    "slug": "wat-phnom-cambodia",
+    "country": "Cambodia",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.923,
+        11.576
+      ]
+    },
+    "description": "Hilltop pagoda that gave Phnom Penh its name.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 410497
+      },
+      {
+        "year": 2020,
+        "visitors": 113146
+      },
+      {
+        "year": 2021,
+        "visitors": 140188
+      },
+      {
+        "year": 2022,
+        "visitors": 276598
+      },
+      {
+        "year": 2023,
+        "visitors": 393307
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "free",
+    "tags": [
+      "phnom-penh"
+    ],
+    "imageQuery": "Wat Phnom Phnom Penh",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1373
+  },
+  {
+    "name": "Silver Pagoda",
+    "slug": "silver-pagoda-cambodia",
+    "country": "Cambodia",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.931,
+        11.563
+      ]
+    },
+    "description": "Royal Palace temple with silver-tiled floor and emerald Buddha.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 552183
+      },
+      {
+        "year": 2020,
+        "visitors": 150276
+      },
+      {
+        "year": 2021,
+        "visitors": 196252
+      },
+      {
+        "year": 2022,
+        "visitors": 391653
+      },
+      {
+        "year": 2023,
+        "visitors": 520283
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "medium",
+    "tags": [
+      "phnom-penh",
+      "royal"
+    ],
+    "imageQuery": "Silver Pagoda Phnom Penh",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1866
+  },
+  {
+    "name": "Bayon Temple",
+    "slug": "bayon-temple-cambodia",
+    "country": "Cambodia",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.859,
+        13.4415
+      ]
+    },
+    "description": "Angkor Thom state temple famous for serene stone faces of Avalokitesvara.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1457879
+      },
+      {
+        "year": 2020,
+        "visitors": 407957
+      },
+      {
+        "year": 2021,
+        "visitors": 517367
+      },
+      {
+        "year": 2022,
+        "visitors": 1116937
+      },
+      {
+        "year": 2023,
+        "visitors": 1453666
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "high",
+    "tags": [
+      "angkor",
+      "bayon"
+    ],
+    "imageQuery": "Bayon Temple faces Angkor",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1181
+  },
+  {
+    "name": "Banteay Srei",
+    "slug": "banteay-srei-cambodia",
+    "country": "Cambodia",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.963,
+        13.599
+      ]
+    },
+    "description": "Pink sandstone citadel of women — exquisite Hindu carvings near Angkor.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 710746
+      },
+      {
+        "year": 2020,
+        "visitors": 199586
+      },
+      {
+        "year": 2021,
+        "visitors": 241841
+      },
+      {
+        "year": 2022,
+        "visitors": 502455
+      },
+      {
+        "year": 2023,
+        "visitors": 668821
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "medium",
+    "tags": [
+      "angkor",
+      "banteay-srei"
+    ],
+    "imageQuery": "Banteay Srei Cambodia",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 967
+  },
+  {
+    "name": "Preah Khan",
+    "slug": "preah-khan-cambodia",
+    "country": "Cambodia",
+    "category": "Pagodas & Temples",
+    "type": "Monastery",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.872,
+        13.462
+      ]
+    },
+    "description": "Vast monastic complex at Angkor with overgrown galleries and Buddhist shrines.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 505775
+      },
+      {
+        "year": 2020,
+        "visitors": 136847
+      },
+      {
+        "year": 2021,
+        "visitors": 178353
+      },
+      {
+        "year": 2022,
+        "visitors": 364672
+      },
+      {
+        "year": 2023,
+        "visitors": 463202
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "high",
+    "tags": [
+      "angkor"
+    ],
+    "imageQuery": "Preah Khan Angkor",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1191
+  },
+  {
+    "name": "Neak Pean",
+    "slug": "neak-pean-cambodia",
+    "country": "Cambodia",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.895,
+        13.463
+      ]
+    },
+    "description": "Island temple in an artificial lake, designed as a Buddhist healing sanctuary.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 341003
+      },
+      {
+        "year": 2020,
+        "visitors": 100501
+      },
+      {
+        "year": 2021,
+        "visitors": 121094
+      },
+      {
+        "year": 2022,
+        "visitors": 259044
+      },
+      {
+        "year": 2023,
+        "visitors": 344168
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "high",
+    "tags": [
+      "angkor"
+    ],
+    "imageQuery": "Neak Pean Angkor",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Wat Ounalom",
+    "slug": "wat-ounalom-cambodia",
+    "country": "Cambodia",
+    "category": "Pagodas & Temples",
+    "type": "Monastery",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.928,
+        11.569
+      ]
+    },
+    "description": "Headquarters of Cambodian Buddhism on the Phnom Penh riverside.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 185554
+      },
+      {
+        "year": 2020,
+        "visitors": 49838
+      },
+      {
+        "year": 2021,
+        "visitors": 62143
+      },
+      {
+        "year": 2022,
+        "visitors": 127178
+      },
+      {
+        "year": 2023,
+        "visitors": 171835
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "free",
+    "tags": [
+      "phnom-penh"
+    ],
+    "imageQuery": "Wat Ounalom Phnom Penh",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1443
+  },
+  {
+    "name": "Wat Nokor Bachey",
+    "slug": "wat-nokor-bachey-cambodia",
+    "country": "Cambodia",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        105.45,
+        11.99
+      ]
+    },
+    "description": "11th-century temple near Kampong Cham with later Buddhist additions.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 71546
+      },
+      {
+        "year": 2020,
+        "visitors": 20082
+      },
+      {
+        "year": 2021,
+        "visitors": 25184
+      },
+      {
+        "year": 2022,
+        "visitors": 49871
+      },
+      {
+        "year": 2023,
+        "visitors": 64184
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "low",
+    "tags": [
+      "kampong-cham"
+    ],
+    "imageQuery": "Wat Nokor Cambodia",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Phnom Chisor Temple",
+    "slug": "phnom-chisor-temple-cambodia",
+    "country": "Cambodia",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.82,
+        11.18
+      ]
+    },
+    "description": "Hilltop Angkorian temple south of Phnom Penh with panoramic views.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 87857
+      },
+      {
+        "year": 2020,
+        "visitors": 24854
+      },
+      {
+        "year": 2021,
+        "visitors": 31954
+      },
+      {
+        "year": 2022,
+        "visitors": 66311
+      },
+      {
+        "year": 2023,
+        "visitors": 86347
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "low",
+    "tags": [
+      "takeo"
+    ],
+    "imageQuery": "Phnom Chisor temple",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Wat Botum",
+    "slug": "wat-botum-cambodia",
+    "country": "Cambodia",
+    "category": "Pagodas & Temples",
+    "type": "Monastery",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.929,
+        11.556
+      ]
+    },
+    "description": "Historic Phnom Penh monastery near the Royal Palace, active for local worship.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 122612
+      },
+      {
+        "year": 2020,
+        "visitors": 32979
+      },
+      {
+        "year": 2021,
+        "visitors": 42404
+      },
+      {
+        "year": 2022,
+        "visitors": 88586
+      },
+      {
+        "year": 2023,
+        "visitors": 109687
+      }
+    ],
+    "rating": 4.1,
+    "entranceFee": "free",
+    "tags": [
+      "phnom-penh"
+    ],
+    "imageQuery": "Wat Botum Phnom Penh",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Psar Thmei Central Market",
+    "slug": "psar-thmei-central-market-cambodia",
+    "country": "Cambodia",
+    "category": "Markets",
+    "type": "Street Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.921,
+        11.57
+      ]
+    },
+    "description": "Art Dec dome market in Phnom Penh for jewelry, clothes, and food.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 693985
+      },
+      {
+        "year": 2020,
+        "visitors": 193797
+      },
+      {
+        "year": 2021,
+        "visitors": 252454
+      },
+      {
+        "year": 2022,
+        "visitors": 507507
+      },
+      {
+        "year": 2023,
+        "visitors": 652699
+      }
+    ],
+    "rating": 4.1,
+    "entranceFee": "free",
+    "tags": [
+      "phnom-penh"
+    ],
+    "imageQuery": "Central Market Phnom Penh",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1937
+  },
+  {
+    "name": "Phsar Chas Night Market",
+    "slug": "phsar-chas-night-market-cambodia",
+    "country": "Cambodia",
+    "category": "Markets",
+    "type": "Night Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.925,
+        11.568
+      ]
+    },
+    "description": "Riverside night market near Phnom Penh's old quarter.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 345008
+      },
+      {
+        "year": 2020,
+        "visitors": 101659
+      },
+      {
+        "year": 2021,
+        "visitors": 124769
+      },
+      {
+        "year": 2022,
+        "visitors": 249945
+      },
+      {
+        "year": 2023,
+        "visitors": 331833
+      }
+    ],
+    "rating": 4,
+    "entranceFee": "free",
+    "tags": [
+      "phnom-penh"
+    ],
+    "imageQuery": "Phnom Penh night market",
+    "dataProvenance": "invented",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Otres Beach",
+    "slug": "otres-beach-cambodia",
+    "country": "Cambodia",
+    "category": "Beaches",
+    "type": "White Sand",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.58,
+        10.57
+      ]
+    },
+    "description": "Quieter sandy beach south of Sihanoukville's busier strips.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 271607
+      },
+      {
+        "year": 2020,
+        "visitors": 75689
+      },
+      {
+        "year": 2021,
+        "visitors": 95654
+      },
+      {
+        "year": 2022,
+        "visitors": 207076
+      },
+      {
+        "year": 2023,
+        "visitors": 271375
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "free",
+    "tags": [
+      "sihanoukville"
+    ],
+    "imageQuery": "Otres Beach Cambodia",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Koh Rong",
+    "slug": "koh-rong-cambodia",
+    "country": "Cambodia",
+    "category": "Islands",
+    "type": "Island Group",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.3,
+        10.7
+      ]
+    },
+    "description": "Gulf of Thailand island with white beaches and backpacker hubs.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 394019
+      },
+      {
+        "year": 2020,
+        "visitors": 107606
+      },
+      {
+        "year": 2021,
+        "visitors": 134564
+      },
+      {
+        "year": 2022,
+        "visitors": 281474
+      },
+      {
+        "year": 2023,
+        "visitors": 372904
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "free",
+    "tags": [
+      "koh-rong"
+    ],
+    "imageQuery": "Koh Rong Cambodia",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Kulen Waterfall",
+    "slug": "kulen-waterfall-cambodia",
+    "country": "Cambodia",
+    "category": "Waterfalls",
+    "type": "Multi-tier",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.1,
+        13.6
+      ]
+    },
+    "description": "Sacred mountain waterfall near Siem Reap with carving riverbed upstream.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 181568
+      },
+      {
+        "year": 2020,
+        "visitors": 52050
+      },
+      {
+        "year": 2021,
+        "visitors": 62566
+      },
+      {
+        "year": 2022,
+        "visitors": 129072
+      },
+      {
+        "year": 2023,
+        "visitors": 174837
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "low",
+    "tags": [
+      "kulen",
+      "siem-reap"
+    ],
+    "imageQuery": "Kulen Waterfall Cambodia",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Bokor Hill Station",
+    "slug": "bokor-hill-station-cambodia",
+    "country": "Cambodia",
+    "category": "Mountains & Highlands",
+    "type": "Viewpoint/Hill Station",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.02,
+        10.63
+      ]
+    },
+    "description": "Foggy colonial hill station ruins and casino plateau above Kampot.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 144835
+      },
+      {
+        "year": 2020,
+        "visitors": 43546
+      },
+      {
+        "year": 2021,
+        "visitors": 51378
+      },
+      {
+        "year": 2022,
+        "visitors": 111085
+      },
+      {
+        "year": 2023,
+        "visitors": 143245
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "medium",
+    "tags": [
+      "kampot",
+      "colonial"
+    ],
+    "imageQuery": "Bokor Hill Station",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1925
+  },
+  {
+    "name": "Tonle Sap Lake",
+    "slug": "tonle-sap-lake-cambodia",
+    "country": "Cambodia",
+    "category": "Lakes & Rivers",
+    "type": "Scenic River Cruise",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.05,
+        12.85
+      ]
+    },
+    "description": "Southeast Asia's largest freshwater lake with floating villages.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 585565
+      },
+      {
+        "year": 2020,
+        "visitors": 161767
+      },
+      {
+        "year": 2021,
+        "visitors": 210537
+      },
+      {
+        "year": 2022,
+        "visitors": 432802
+      },
+      {
+        "year": 2023,
+        "visitors": 569758
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "low",
+    "tags": [
+      "tonle-sap"
+    ],
+    "imageQuery": "Tonle Sap floating village",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Wat Xieng Thong",
+    "slug": "wat-xieng-thong-laos",
+    "country": "Laos",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.156,
+        19.897
+      ]
+    },
+    "description": "Luang Prabang's most exquisite temple with mosaic tree of life rear wall.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 340068
+      },
+      {
+        "year": 2020,
+        "visitors": 100987
+      },
+      {
+        "year": 2021,
+        "visitors": 126494
+      },
+      {
+        "year": 2022,
+        "visitors": 257149
+      },
+      {
+        "year": 2023,
+        "visitors": 340301
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "low",
+    "tags": [
+      "luang-prabang"
+    ],
+    "imageQuery": "Wat Xieng Thong",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1560
+  },
+  {
+    "name": "Pha That Luang",
+    "slug": "pha-that-luang-laos",
+    "country": "Laos",
+    "category": "Pagodas & Temples",
+    "type": "Golden Stupa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.636,
+        17.978
+      ]
+    },
+    "description": "National symbol of Laos — grand golden stupa in Vientiane.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 280441
+      },
+      {
+        "year": 2020,
+        "visitors": 77078
+      },
+      {
+        "year": 2021,
+        "visitors": 95806
+      },
+      {
+        "year": 2022,
+        "visitors": 194652
+      },
+      {
+        "year": 2023,
+        "visitors": 276445
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "low",
+    "tags": [
+      "vientiane"
+    ],
+    "imageQuery": "Pha That Luang Vientiane",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1566
+  },
+  {
+    "name": "Wat Mai Suwannaphumaham",
+    "slug": "wat-mai-suwannaphumaham-laos",
+    "country": "Laos",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.14,
+        19.891
+      ]
+    },
+    "description": "Royal temple in Luang Prabang with gilded facade and historic murals.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 214725
+      },
+      {
+        "year": 2020,
+        "visitors": 63663
+      },
+      {
+        "year": 2021,
+        "visitors": 79332
+      },
+      {
+        "year": 2022,
+        "visitors": 159213
+      },
+      {
+        "year": 2023,
+        "visitors": 214386
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "low",
+    "tags": [
+      "luang-prabang"
+    ],
+    "imageQuery": "Wat Mai Luang Prabang",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1796
+  },
+  {
+    "name": "Wat Visoun",
+    "slug": "wat-visoun-laos",
+    "country": "Laos",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.145,
+        19.886
+      ]
+    },
+    "description": "One of Luang Prabang's oldest temples with the distinctive That Makmo stupa.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 145776
+      },
+      {
+        "year": 2020,
+        "visitors": 42714
+      },
+      {
+        "year": 2021,
+        "visitors": 51545
+      },
+      {
+        "year": 2022,
+        "visitors": 111853
+      },
+      {
+        "year": 2023,
+        "visitors": 138897
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "low",
+    "tags": [
+      "luang-prabang"
+    ],
+    "imageQuery": "Wat Visoun That Makmo",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1512
+  },
+  {
+    "name": "Wat Sensoukarahm",
+    "slug": "wat-sensoukarahm-laos",
+    "country": "Laos",
+    "category": "Pagodas & Temples",
+    "type": "Monastery",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.15,
+        19.895
+      ]
+    },
+    "description": "Riverside monastery in Luang Prabang known for morning alms processions.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 103822
+      },
+      {
+        "year": 2020,
+        "visitors": 27041
+      },
+      {
+        "year": 2021,
+        "visitors": 36263
+      },
+      {
+        "year": 2022,
+        "visitors": 74281
+      },
+      {
+        "year": 2023,
+        "visitors": 97292
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "free",
+    "tags": [
+      "luang-prabang",
+      "alms"
+    ],
+    "imageQuery": "Wat Sen Luang Prabang",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Wat Si Saket",
+    "slug": "wat-si-saket-laos",
+    "country": "Laos",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.612,
+        17.963
+      ]
+    },
+    "description": "Vientiane temple with cloister walls lined by thousands of Buddha images.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 204390
+      },
+      {
+        "year": 2020,
+        "visitors": 58119
+      },
+      {
+        "year": 2021,
+        "visitors": 68630
+      },
+      {
+        "year": 2022,
+        "visitors": 142743
+      },
+      {
+        "year": 2023,
+        "visitors": 185031
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "low",
+    "tags": [
+      "vientiane"
+    ],
+    "imageQuery": "Wat Si Saket Vientiane",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1818
+  },
+  {
+    "name": "Haw Phra Kaew",
+    "slug": "haw-phra-kaew-laos",
+    "country": "Laos",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.6125,
+        17.9615
+      ]
+    },
+    "description": "Former royal temple that once housed the Emerald Buddha, now a museum.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 174818
+      },
+      {
+        "year": 2020,
+        "visitors": 50260
+      },
+      {
+        "year": 2021,
+        "visitors": 64872
+      },
+      {
+        "year": 2022,
+        "visitors": 132327
+      },
+      {
+        "year": 2023,
+        "visitors": 165811
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "low",
+    "tags": [
+      "vientiane"
+    ],
+    "imageQuery": "Haw Phra Kaew Vientiane",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1565
+  },
+  {
+    "name": "That Dam Stupa",
+    "slug": "that-dam-stupa-laos",
+    "country": "Laos",
+    "category": "Pagodas & Temples",
+    "type": "Golden Stupa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.615,
+        17.968
+      ]
+    },
+    "description": "Black Stupa legend site in central Vientiane, a quiet local landmark.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 78034
+      },
+      {
+        "year": 2020,
+        "visitors": 23082
+      },
+      {
+        "year": 2021,
+        "visitors": 27428
+      },
+      {
+        "year": 2022,
+        "visitors": 57023
+      },
+      {
+        "year": 2023,
+        "visitors": 77570
+      }
+    ],
+    "rating": 4,
+    "entranceFee": "free",
+    "tags": [
+      "vientiane"
+    ],
+    "imageQuery": "That Dam Vientiane",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Wat Phou Champasak",
+    "slug": "wat-phou-champasak-laos",
+    "country": "Laos",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        105.82,
+        14.85
+      ]
+    },
+    "description": "UNESCO mountain-side Khmer temple complex overlooking the Mekong plains.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 118237
+      },
+      {
+        "year": 2020,
+        "visitors": 32872
+      },
+      {
+        "year": 2021,
+        "visitors": 42022
+      },
+      {
+        "year": 2022,
+        "visitors": 83674
+      },
+      {
+        "year": 2023,
+        "visitors": 112201
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "low",
+    "tags": [
+      "champasak",
+      "unesco"
+    ],
+    "imageQuery": "Wat Phou Champasak",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Kuāng Si Falls",
+    "slug": "ku-ng-si-falls-laos",
+    "country": "Laos",
+    "category": "Waterfalls",
+    "type": "Multi-tier",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.99,
+        19.75
+      ]
+    },
+    "description": "Turquoise multi-tier falls and bear rescue center near Luang Prabang.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 415940
+      },
+      {
+        "year": 2020,
+        "visitors": 111718
+      },
+      {
+        "year": 2021,
+        "visitors": 136863
+      },
+      {
+        "year": 2022,
+        "visitors": 290994
+      },
+      {
+        "year": 2023,
+        "visitors": 388644
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "low",
+    "tags": [
+      "luang-prabang"
+    ],
+    "imageQuery": "Kuang Si Falls Laos",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Talat Sao Morning Market",
+    "slug": "talat-sao-morning-market-laos",
+    "country": "Laos",
+    "category": "Markets",
+    "type": "Wet Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.61,
+        17.965
+      ]
+    },
+    "description": "Vientiane morning market for textiles, food, and household goods.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 200439
+      },
+      {
+        "year": 2020,
+        "visitors": 56824
+      },
+      {
+        "year": 2021,
+        "visitors": 68936
+      },
+      {
+        "year": 2022,
+        "visitors": 145489
+      },
+      {
+        "year": 2023,
+        "visitors": 188634
+      }
+    ],
+    "rating": 4,
+    "entranceFee": "free",
+    "tags": [
+      "vientiane"
+    ],
+    "imageQuery": "Talat Sao Vientiane",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Night Market Luang Prabang",
+    "slug": "night-market-luang-prabang-laos",
+    "country": "Laos",
+    "category": "Markets",
+    "type": "Night Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.135,
+        19.889
+      ]
+    },
+    "description": "Handicraft night market along Sisavangvong Road.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 330180
+      },
+      {
+        "year": 2020,
+        "visitors": 90328
+      },
+      {
+        "year": 2021,
+        "visitors": 111477
+      },
+      {
+        "year": 2022,
+        "visitors": 236207
+      },
+      {
+        "year": 2023,
+        "visitors": 302212
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "free",
+    "tags": [
+      "luang-prabang"
+    ],
+    "imageQuery": "Luang Prabang night market",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Vang Vieng Cliffs",
+    "slug": "vang-vieng-cliffs-laos",
+    "country": "Laos",
+    "category": "Mountains & Highlands",
+    "type": "Viewpoint/Hill Station",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.448,
+        18.923
+      ]
+    },
+    "description": "Karst cliffs and lagoon viewpoints above the Nam Song River.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 259379
+      },
+      {
+        "year": 2020,
+        "visitors": 68613
+      },
+      {
+        "year": 2021,
+        "visitors": 88969
+      },
+      {
+        "year": 2022,
+        "visitors": 172812
+      },
+      {
+        "year": 2023,
+        "visitors": 243271
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "low",
+    "tags": [
+      "vang-vieng"
+    ],
+    "imageQuery": "Vang Vieng lagoon viewpoint",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Si Phan Don",
+    "slug": "si-phan-don-laos",
+    "country": "Laos",
+    "category": "Islands",
+    "type": "Island Group",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        105.95,
+        13.95
+      ]
+    },
+    "description": "Four Thousand Islands stretch of the Mekong with waterfalls and dolphins.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 176367
+      },
+      {
+        "year": 2020,
+        "visitors": 51870
+      },
+      {
+        "year": 2021,
+        "visitors": 62171
+      },
+      {
+        "year": 2022,
+        "visitors": 125286
+      },
+      {
+        "year": 2023,
+        "visitors": 169482
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "low",
+    "tags": [
+      "mekong",
+      "4000-islands"
+    ],
+    "imageQuery": "Si Phan Don Laos",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Plain of Jars",
+    "slug": "plain-of-jars-laos",
+    "country": "Laos",
+    "category": "Heritage & Ruins",
+    "type": "UNESCO Site",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.16,
+        19.43
+      ]
+    },
+    "description": "Mysterious megalithic stone jar sites across Xieng Khouang plateau.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 91826
+      },
+      {
+        "year": 2020,
+        "visitors": 26065
+      },
+      {
+        "year": 2021,
+        "visitors": 31043
+      },
+      {
+        "year": 2022,
+        "visitors": 66648
+      },
+      {
+        "year": 2023,
+        "visitors": 83825
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "low",
+    "tags": [
+      "unesco",
+      "jars"
+    ],
+    "imageQuery": "Plain of Jars Laos",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Mekong Sunset Cruise LP",
+    "slug": "mekong-sunset-cruise-lp-laos",
+    "country": "Laos",
+    "category": "Lakes & Rivers",
+    "type": "Scenic River Cruise",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.14,
+        19.89
+      ]
+    },
+    "description": "Sunset boat rides on the Mekong at Luang Prabang.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 150583
+      },
+      {
+        "year": 2020,
+        "visitors": 43026
+      },
+      {
+        "year": 2021,
+        "visitors": 52171
+      },
+      {
+        "year": 2022,
+        "visitors": 110116
+      },
+      {
+        "year": 2023,
+        "visitors": 143608
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "medium",
+    "tags": [
+      "mekong"
+    ],
+    "imageQuery": "Mekong sunset Luang Prabang",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Nong Khiaw River Cliffs",
+    "slug": "nong-khiaw-river-cliffs-laos",
+    "country": "Laos",
+    "category": "Lakes & Rivers",
+    "type": "Scenic River Cruise",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.53,
+        20.57
+      ]
+    },
+    "description": "Dramatic limestone cliffs along the Nam Ou river north of Luang Prabang.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 77066
+      },
+      {
+        "year": 2020,
+        "visitors": 22660
+      },
+      {
+        "year": 2021,
+        "visitors": 28718
+      },
+      {
+        "year": 2022,
+        "visitors": 58655
+      },
+      {
+        "year": 2023,
+        "visitors": 74282
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "low",
+    "tags": [
+      "nong-khiaw"
+    ],
+    "imageQuery": "Nong Khiaw Laos",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Tad Fane Waterfall",
+    "slug": "tad-fane-waterfall-laos",
+    "country": "Laos",
+    "category": "Waterfalls",
+    "type": "Single Drop",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        106.65,
+        15.18
+      ]
+    },
+    "description": "Twin waterfall plunge on the Bolaven Plateau.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 70696
+      },
+      {
+        "year": 2020,
+        "visitors": 19126
+      },
+      {
+        "year": 2021,
+        "visitors": 24786
+      },
+      {
+        "year": 2022,
+        "visitors": 50273
+      },
+      {
+        "year": 2023,
+        "visitors": 66626
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "low",
+    "tags": [
+      "bolaven"
+    ],
+    "imageQuery": "Tad Fane Waterfall Laos",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Pakse Riverside Beach",
+    "slug": "pakse-riverside-beach-laos",
+    "country": "Laos",
+    "category": "Beaches",
+    "type": "Rocky Coast",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        105.8,
+        15.12
+      ]
+    },
+    "description": "Local riverside sandbanks near Pakse used as seasonal bathing spots.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 40666
+      },
+      {
+        "year": 2020,
+        "visitors": 11607
+      },
+      {
+        "year": 2021,
+        "visitors": 13666
+      },
+      {
+        "year": 2022,
+        "visitors": 27893
+      },
+      {
+        "year": 2023,
+        "visitors": 38679
+      }
+    ],
+    "rating": 3.8,
+    "entranceFee": "free",
+    "tags": [
+      "pakse"
+    ],
+    "imageQuery": "Pakse Mekong sandbank",
+    "dataProvenance": "invented",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Batu Caves",
+    "slug": "batu-caves-malaysia",
+    "country": "Malaysia",
+    "category": "Pagodas & Temples",
+    "type": "Cave Temple",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.684,
+        3.238
+      ]
+    },
+    "description": "Hindu shrine caves and giant golden Murugan statue near Kuala Lumpur.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1835093
+      },
+      {
+        "year": 2020,
+        "visitors": 500684
+      },
+      {
+        "year": 2021,
+        "visitors": 622248
+      },
+      {
+        "year": 2022,
+        "visitors": 1293886
+      },
+      {
+        "year": 2023,
+        "visitors": 1751505
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "free",
+    "tags": [
+      "kl",
+      "hindu"
+    ],
+    "imageQuery": "Batu Caves Malaysia",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1891
+  },
+  {
+    "name": "Kek Lok Si",
+    "slug": "kek-lok-si-malaysia",
+    "country": "Malaysia",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.274,
+        5.399
+      ]
+    },
+    "description": "Largest Buddhist temple complex in Malaysia, Penang hillside.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 713639
+      },
+      {
+        "year": 2020,
+        "visitors": 203353
+      },
+      {
+        "year": 2021,
+        "visitors": 239602
+      },
+      {
+        "year": 2022,
+        "visitors": 508804
+      },
+      {
+        "year": 2023,
+        "visitors": 683424
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "free",
+    "tags": [
+      "penang"
+    ],
+    "imageQuery": "Kek Lok Si Penang",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1890
+  },
+  {
+    "name": "Petaling Street Market",
+    "slug": "petaling-street-market-malaysia",
+    "country": "Malaysia",
+    "category": "Markets",
+    "type": "Street Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.698,
+        3.144
+      ]
+    },
+    "description": "Kuala Lumpur Chinatown street market for bargains and hawker food.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1165162
+      },
+      {
+        "year": 2020,
+        "visitors": 333076
+      },
+      {
+        "year": 2021,
+        "visitors": 414642
+      },
+      {
+        "year": 2022,
+        "visitors": 848804
+      },
+      {
+        "year": 2023,
+        "visitors": 1134100
+      }
+    ],
+    "rating": 4.1,
+    "entranceFee": "free",
+    "tags": [
+      "kl",
+      "chinatown"
+    ],
+    "imageQuery": "Petaling Street KL",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Central Market KL",
+    "slug": "central-market-kl-malaysia",
+    "country": "Malaysia",
+    "category": "Markets",
+    "type": "Flea Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.695,
+        3.146
+      ]
+    },
+    "description": "Heritage art-deco market for Malaysian crafts and souvenirs.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 878941
+      },
+      {
+        "year": 2020,
+        "visitors": 255209
+      },
+      {
+        "year": 2021,
+        "visitors": 305249
+      },
+      {
+        "year": 2022,
+        "visitors": 667236
+      },
+      {
+        "year": 2023,
+        "visitors": 827537
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "free",
+    "tags": [
+      "kl"
+    ],
+    "imageQuery": "Central Market Kuala Lumpur",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1888
+  },
+  {
+    "name": "Perhentian Islands",
+    "slug": "perhentian-islands-malaysia",
+    "country": "Malaysia",
+    "category": "Beaches",
+    "type": "Diving/Snorkeling",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.77,
+        5.92
+      ]
+    },
+    "description": "East coast islands with turquoise water and coral snorkeling.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 349709
+      },
+      {
+        "year": 2020,
+        "visitors": 99617
+      },
+      {
+        "year": 2021,
+        "visitors": 125832
+      },
+      {
+        "year": 2022,
+        "visitors": 245351
+      },
+      {
+        "year": 2023,
+        "visitors": 330072
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "medium",
+    "tags": [
+      "terengganu"
+    ],
+    "imageQuery": "Perhentian Islands Malaysia",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Langkawi Pantai Cenang",
+    "slug": "langkawi-pantai-cenang-malaysia",
+    "country": "Malaysia",
+    "category": "Beaches",
+    "type": "Resort Beach",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.727,
+        6.293
+      ]
+    },
+    "description": "Main resort beach strip on Langkawi with sunset cafes.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 773646
+      },
+      {
+        "year": 2020,
+        "visitors": 227311
+      },
+      {
+        "year": 2021,
+        "visitors": 272215
+      },
+      {
+        "year": 2022,
+        "visitors": 557128
+      },
+      {
+        "year": 2023,
+        "visitors": 746198
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "free",
+    "tags": [
+      "langkawi"
+    ],
+    "imageQuery": "Pantai Cenang Langkawi",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Mount Kinabalu",
+    "slug": "mount-kinabalu-malaysia",
+    "country": "Malaysia",
+    "category": "Mountains & Highlands",
+    "type": "Trekking Peak",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.558,
+        6.075
+      ]
+    },
+    "description": "UNESCO-listed granite massif — Borneo's highest summit.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 195800
+      },
+      {
+        "year": 2020,
+        "visitors": 57728
+      },
+      {
+        "year": 2021,
+        "visitors": 67614
+      },
+      {
+        "year": 2022,
+        "visitors": 139144
+      },
+      {
+        "year": 2023,
+        "visitors": 188514
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "high",
+    "tags": [
+      "sabah",
+      "unesco"
+    ],
+    "imageQuery": "Mount Kinabalu summit",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Cameron Highlands",
+    "slug": "cameron-highlands-malaysia",
+    "country": "Malaysia",
+    "category": "Mountains & Highlands",
+    "type": "Viewpoint/Hill Station",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.4,
+        4.47
+      ]
+    },
+    "description": "Tea plantations and cool climate hill resorts in Pahang.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 590882
+      },
+      {
+        "year": 2020,
+        "visitors": 171769
+      },
+      {
+        "year": 2021,
+        "visitors": 208401
+      },
+      {
+        "year": 2022,
+        "visitors": 436714
+      },
+      {
+        "year": 2023,
+        "visitors": 553384
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "free",
+    "tags": [
+      "pahang",
+      "tea"
+    ],
+    "imageQuery": "Cameron Highlands tea",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Melaka Colonial Core",
+    "slug": "melaka-colonial-core-malaysia",
+    "country": "Malaysia",
+    "category": "Heritage & Ruins",
+    "type": "Colonial Architecture",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.25,
+        2.19
+      ]
+    },
+    "description": "UNESCO historic city with Dutch Square, A Famosa, and Peranakan shophouses.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1071576
+      },
+      {
+        "year": 2020,
+        "visitors": 318273
+      },
+      {
+        "year": 2021,
+        "visitors": 396027
+      },
+      {
+        "year": 2022,
+        "visitors": 813963
+      },
+      {
+        "year": 2023,
+        "visitors": 1042155
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "low",
+    "tags": [
+      "melaka",
+      "unesco"
+    ],
+    "imageQuery": "Melaka Dutch Square",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1511
+  },
+  {
+    "name": "Sipadan Island",
+    "slug": "sipadan-island-malaysia",
+    "country": "Malaysia",
+    "category": "Islands",
+    "type": "National Marine Park",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        118.63,
+        4.115
+      ]
+    },
+    "description": "World-class wall diving island off Sabah's east coast.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 50519
+      },
+      {
+        "year": 2020,
+        "visitors": 13917
+      },
+      {
+        "year": 2021,
+        "visitors": 17827
+      },
+      {
+        "year": 2022,
+        "visitors": 35103
+      },
+      {
+        "year": 2023,
+        "visitors": 47318
+      }
+    ],
+    "rating": 4.9,
+    "entranceFee": "high",
+    "tags": [
+      "sabah",
+      "diving"
+    ],
+    "imageQuery": "Sipadan Island diving",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Lake Kenyir",
+    "slug": "lake-kenyir-malaysia",
+    "country": "Malaysia",
+    "category": "Lakes & Rivers",
+    "type": "Crater Lake",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.75,
+        5
+      ]
+    },
+    "description": "Vast man-made lake and rainforest recreation area in Terengganu.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 121726
+      },
+      {
+        "year": 2020,
+        "visitors": 33854
+      },
+      {
+        "year": 2021,
+        "visitors": 41273
+      },
+      {
+        "year": 2022,
+        "visitors": 85748
+      },
+      {
+        "year": 2023,
+        "visitors": 115688
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "low",
+    "tags": [
+      "terengganu"
+    ],
+    "imageQuery": "Lake Kenyir Malaysia",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1985
+  },
+  {
+    "name": "Lata Bukit Hijau",
+    "slug": "lata-bukit-hijau-malaysia",
+    "country": "Malaysia",
+    "category": "Waterfalls",
+    "type": "Multi-tier",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.8,
+        5.35
+      ]
+    },
+    "description": "Forest multi-tier waterfall recreation park in Kedah.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 57803
+      },
+      {
+        "year": 2020,
+        "visitors": 16814
+      },
+      {
+        "year": 2021,
+        "visitors": 21565
+      },
+      {
+        "year": 2022,
+        "visitors": 43848
+      },
+      {
+        "year": 2023,
+        "visitors": 57155
+      }
+    ],
+    "rating": 4.1,
+    "entranceFee": "free",
+    "tags": [
+      "kedah"
+    ],
+    "imageQuery": "Lata Bukit Hijau waterfall",
+    "dataProvenance": "invented",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Buddha Tooth Relic Temple",
+    "slug": "buddha-tooth-relic-temple-singapore",
+    "country": "Singapore",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.844,
+        1.2814
+      ]
+    },
+    "description": "Tang-style temple museum in Chinatown housing a sacred tooth relic.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 929110
+      },
+      {
+        "year": 2020,
+        "visitors": 256832
+      },
+      {
+        "year": 2021,
+        "visitors": 313469
+      },
+      {
+        "year": 2022,
+        "visitors": 633315
+      },
+      {
+        "year": 2023,
+        "visitors": 861342
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "free",
+    "tags": [
+      "chinatown"
+    ],
+    "imageQuery": "Buddha Tooth Relic Temple Singapore",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 2007
+  },
+  {
+    "name": "Gardens by the Bay",
+    "slug": "gardens-by-the-bay-singapore",
+    "country": "Singapore",
+    "category": "Heritage & Ruins",
+    "type": "UNESCO Site",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.8636,
+        1.2816
+      ]
+    },
+    "description": "Futuristic gardens with Supertrees and Cloud Forest — Singapore's modern heritage landmark (visitor figures approximated for coursework).",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 5124294
+      },
+      {
+        "year": 2020,
+        "visitors": 1346721
+      },
+      {
+        "year": 2021,
+        "visitors": 1716631
+      },
+      {
+        "year": 2022,
+        "visitors": 3626393
+      },
+      {
+        "year": 2023,
+        "visitors": 4840323
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "medium",
+    "tags": [
+      "marina-bay"
+    ],
+    "imageQuery": "Gardens by the Bay Supertrees",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 2012
+  },
+  {
+    "name": "Chinatown Complex Market",
+    "slug": "chinatown-complex-market-singapore",
+    "country": "Singapore",
+    "category": "Markets",
+    "type": "Wet Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.843,
+        1.282
+      ]
+    },
+    "description": "Hawker centre and wet market heart of Singapore Chinatown.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1486443
+      },
+      {
+        "year": 2020,
+        "visitors": 425758
+      },
+      {
+        "year": 2021,
+        "visitors": 536529
+      },
+      {
+        "year": 2022,
+        "visitors": 1122742
+      },
+      {
+        "year": 2023,
+        "visitors": 1469003
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "free",
+    "tags": [
+      "chinatown",
+      "hawker"
+    ],
+    "imageQuery": "Chinatown Complex Singapore",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1983
+  },
+  {
+    "name": "Lau Pa Sat",
+    "slug": "lau-pa-sat-singapore",
+    "country": "Singapore",
+    "category": "Markets",
+    "type": "Street Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.8505,
+        1.2807
+      ]
+    },
+    "description": "Victorian cast-iron market turned food haven in the CBD.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1237572
+      },
+      {
+        "year": 2020,
+        "visitors": 334040
+      },
+      {
+        "year": 2021,
+        "visitors": 429056
+      },
+      {
+        "year": 2022,
+        "visitors": 851285
+      },
+      {
+        "year": 2023,
+        "visitors": 1159967
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "free",
+    "tags": [
+      "cbd",
+      "food"
+    ],
+    "imageQuery": "Lau Pa Sat Singapore",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1894
+  },
+  {
+    "name": "Sentosa Beach",
+    "slug": "sentosa-beach-singapore",
+    "country": "Singapore",
+    "category": "Beaches",
+    "type": "Resort Beach",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.82,
+        1.249
+      ]
+    },
+    "description": "Imported sand resort beaches on Sentosa Island.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1947180
+      },
+      {
+        "year": 2020,
+        "visitors": 539572
+      },
+      {
+        "year": 2021,
+        "visitors": 709509
+      },
+      {
+        "year": 2022,
+        "visitors": 1432882
+      },
+      {
+        "year": 2023,
+        "visitors": 1975759
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "medium",
+    "tags": [
+      "sentosa"
+    ],
+    "imageQuery": "Sentosa Beach Singapore",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "MacRitchie Reservoir Trail",
+    "slug": "macritchie-reservoir-trail-singapore",
+    "country": "Singapore",
+    "category": "Lakes & Rivers",
+    "type": "Scenic River Cruise",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.822,
+        1.341
+      ]
+    },
+    "description": "Boardwalk and treetop walk around Singapore's oldest reservoir.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 394523
+      },
+      {
+        "year": 2020,
+        "visitors": 113194
+      },
+      {
+        "year": 2021,
+        "visitors": 143883
+      },
+      {
+        "year": 2022,
+        "visitors": 289415
+      },
+      {
+        "year": 2023,
+        "visitors": 390406
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "free",
+    "tags": [
+      "nature"
+    ],
+    "imageQuery": "MacRitchie Reservoir Singapore",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1867
+  },
+  {
+    "name": "Pulau Ubin",
+    "slug": "pulau-ubin-singapore",
+    "country": "Singapore",
+    "category": "Islands",
+    "type": "Island Group",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.96,
+        1.41
+      ]
+    },
+    "description": "Kampung-style island escape with bikes, quarries, and mangroves.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 254946
+      },
+      {
+        "year": 2020,
+        "visitors": 70191
+      },
+      {
+        "year": 2021,
+        "visitors": 84602
+      },
+      {
+        "year": 2022,
+        "visitors": 186486
+      },
+      {
+        "year": 2023,
+        "visitors": 236885
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "free",
+    "tags": [
+      "ubin"
+    ],
+    "imageQuery": "Pulau Ubin Singapore",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Bukit Timah Summit",
+    "slug": "bukit-timah-summit-singapore",
+    "country": "Singapore",
+    "category": "Mountains & Highlands",
+    "type": "Trekking Peak",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.776,
+        1.354
+      ]
+    },
+    "description": "Singapore's highest natural hill with primary rainforest reserve.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 302645
+      },
+      {
+        "year": 2020,
+        "visitors": 85494
+      },
+      {
+        "year": 2021,
+        "visitors": 104459
+      },
+      {
+        "year": 2022,
+        "visitors": 208871
+      },
+      {
+        "year": 2023,
+        "visitors": 278899
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "free",
+    "tags": [
+      "nature"
+    ],
+    "imageQuery": "Bukit Timah Nature Reserve",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Borobudur",
+    "slug": "borobudur-indonesia",
+    "country": "Indonesia",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        110.213,
+        -7.608
+      ]
+    },
+    "description": "World's largest Buddhist temple — concentric stone mandala near Yogyakarta.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 2063863
+      },
+      {
+        "year": 2020,
+        "visitors": 576127
+      },
+      {
+        "year": 2021,
+        "visitors": 708912
+      },
+      {
+        "year": 2022,
+        "visitors": 1398576
+      },
+      {
+        "year": 2023,
+        "visitors": 1825892
+      }
+    ],
+    "rating": 4.9,
+    "entranceFee": "high",
+    "tags": [
+      "java",
+      "unesco"
+    ],
+    "imageQuery": "Borobudur sunrise",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 800
+  },
+  {
+    "name": "Prambanan",
+    "slug": "prambanan-indonesia",
+    "country": "Indonesia",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        110.491,
+        -7.752
+      ]
+    },
+    "description": "Towering Hindu temple complex dedicated to the Trimurti.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1175720
+      },
+      {
+        "year": 2020,
+        "visitors": 342571
+      },
+      {
+        "year": 2021,
+        "visitors": 405145
+      },
+      {
+        "year": 2022,
+        "visitors": 876931
+      },
+      {
+        "year": 2023,
+        "visitors": 1158287
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "medium",
+    "tags": [
+      "java",
+      "unesco"
+    ],
+    "imageQuery": "Prambanan temple",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 850
+  },
+  {
+    "name": "Tanah Lot",
+    "slug": "tanah-lot-indonesia",
+    "country": "Indonesia",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        115.087,
+        -8.621
+      ]
+    },
+    "description": "Sea temple perched on a rocky coastal outcrop in Bali.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1799426
+      },
+      {
+        "year": 2020,
+        "visitors": 505104
+      },
+      {
+        "year": 2021,
+        "visitors": 641347
+      },
+      {
+        "year": 2022,
+        "visitors": 1288925
+      },
+      {
+        "year": 2023,
+        "visitors": 1726528
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "medium",
+    "tags": [
+      "bali"
+    ],
+    "imageQuery": "Tanah Lot Bali sunset",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 16
+  },
+  {
+    "name": "Uluwatu Temple",
+    "slug": "uluwatu-temple-indonesia",
+    "country": "Indonesia",
+    "category": "Pagodas & Temples",
+    "type": "Pilgrimage Site/Ruins",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        115.084,
+        -8.829
+      ]
+    },
+    "description": "Clifftop sea temple famous for kecak dance at sunset.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1350116
+      },
+      {
+        "year": 2020,
+        "visitors": 401047
+      },
+      {
+        "year": 2021,
+        "visitors": 507288
+      },
+      {
+        "year": 2022,
+        "visitors": 1014638
+      },
+      {
+        "year": 2023,
+        "visitors": 1382008
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "medium",
+    "tags": [
+      "bali",
+      "cliff"
+    ],
+    "imageQuery": "Uluwatu Temple Bali",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Pasar Baru",
+    "slug": "pasar-baru-indonesia",
+    "country": "Indonesia",
+    "category": "Markets",
+    "type": "Street Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        106.835,
+        -6.185
+      ]
+    },
+    "description": "Historic Jakarta street market for textiles and street food.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 610087
+      },
+      {
+        "year": 2020,
+        "visitors": 165716
+      },
+      {
+        "year": 2021,
+        "visitors": 217751
+      },
+      {
+        "year": 2022,
+        "visitors": 426309
+      },
+      {
+        "year": 2023,
+        "visitors": 590866
+      }
+    ],
+    "rating": 4,
+    "entranceFee": "free",
+    "tags": [
+      "jakarta"
+    ],
+    "imageQuery": "Pasar Baru Jakarta",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1820
+  },
+  {
+    "name": "Ubud Art Market",
+    "slug": "ubud-art-market-indonesia",
+    "country": "Indonesia",
+    "category": "Markets",
+    "type": "Flea Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        115.262,
+        -8.507
+      ]
+    },
+    "description": "Balinese craft market opposite the royal palace in Ubud.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 868559
+      },
+      {
+        "year": 2020,
+        "visitors": 245582
+      },
+      {
+        "year": 2021,
+        "visitors": 315671
+      },
+      {
+        "year": 2022,
+        "visitors": 662732
+      },
+      {
+        "year": 2023,
+        "visitors": 883033
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "free",
+    "tags": [
+      "ubud",
+      "bali"
+    ],
+    "imageQuery": "Ubud Art Market",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Kuta Beach",
+    "slug": "kuta-beach-indonesia",
+    "country": "Indonesia",
+    "category": "Beaches",
+    "type": "Surfing",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        115.168,
+        -8.718
+      ]
+    },
+    "description": "Classic Bali surf beach with lively nightlife strip.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 3044864
+      },
+      {
+        "year": 2020,
+        "visitors": 827203
+      },
+      {
+        "year": 2021,
+        "visitors": 1089044
+      },
+      {
+        "year": 2022,
+        "visitors": 2179468
+      },
+      {
+        "year": 2023,
+        "visitors": 2742187
+      }
+    ],
+    "rating": 4.1,
+    "entranceFee": "free",
+    "tags": [
+      "bali",
+      "surf"
+    ],
+    "imageQuery": "Kuta Beach Bali surfing",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Nusa Dua",
+    "slug": "nusa-dua-indonesia",
+    "country": "Indonesia",
+    "category": "Beaches",
+    "type": "Resort Beach",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        115.232,
+        -8.8
+      ]
+    },
+    "description": "Gated resort beaches on Bali's Bukit peninsula.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1162202
+      },
+      {
+        "year": 2020,
+        "visitors": 323294
+      },
+      {
+        "year": 2021,
+        "visitors": 403820
+      },
+      {
+        "year": 2022,
+        "visitors": 896846
+      },
+      {
+        "year": 2023,
+        "visitors": 1116983
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "free",
+    "tags": [
+      "bali"
+    ],
+    "imageQuery": "Nusa Dua Beach Bali",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Raja Ampat",
+    "slug": "raja-ampat-indonesia",
+    "country": "Indonesia",
+    "category": "Beaches",
+    "type": "Diving/Snorkeling",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        130.5,
+        -0.4
+      ]
+    },
+    "description": "Global biodiversity hotspot for coral and reef diving in West Papua.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 81741
+      },
+      {
+        "year": 2020,
+        "visitors": 23065
+      },
+      {
+        "year": 2021,
+        "visitors": 26986
+      },
+      {
+        "year": 2022,
+        "visitors": 55659
+      },
+      {
+        "year": 2023,
+        "visitors": 74484
+      }
+    ],
+    "rating": 4.9,
+    "entranceFee": "high",
+    "tags": [
+      "papua",
+      "diving"
+    ],
+    "imageQuery": "Raja Ampat diving",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Mount Bromo",
+    "slug": "mount-bromo-indonesia",
+    "country": "Indonesia",
+    "category": "Mountains & Highlands",
+    "type": "Volcanic",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        112.953,
+        -7.942
+      ]
+    },
+    "description": "Active volcanic crater in East Java's Tengger massif — sunrise classic.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 723114
+      },
+      {
+        "year": 2020,
+        "visitors": 197692
+      },
+      {
+        "year": 2021,
+        "visitors": 240468
+      },
+      {
+        "year": 2022,
+        "visitors": 500014
+      },
+      {
+        "year": 2023,
+        "visitors": 681606
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "medium",
+    "tags": [
+      "java",
+      "volcano"
+    ],
+    "imageQuery": "Mount Bromo sunrise",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Mount Merapi",
+    "slug": "mount-merapi-indonesia",
+    "country": "Indonesia",
+    "category": "Mountains & Highlands",
+    "type": "Volcanic",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        110.446,
+        -7.541
+      ]
+    },
+    "description": "Java's most active volcano with jeep tours and lava views.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 403658
+      },
+      {
+        "year": 2020,
+        "visitors": 114505
+      },
+      {
+        "year": 2021,
+        "visitors": 145565
+      },
+      {
+        "year": 2022,
+        "visitors": 279317
+      },
+      {
+        "year": 2023,
+        "visitors": 379287
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "medium",
+    "tags": [
+      "java",
+      "volcano"
+    ],
+    "imageQuery": "Mount Merapi Yogyakarta",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Tumpak Sewu",
+    "slug": "tumpak-sewu-indonesia",
+    "country": "Indonesia",
+    "category": "Waterfalls",
+    "type": "Multi-tier",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        112.92,
+        -8.23
+      ]
+    },
+    "description": "Semicircular curtain waterfall nicknamed Indonesia's Niagara.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 147839
+      },
+      {
+        "year": 2020,
+        "visitors": 41461
+      },
+      {
+        "year": 2021,
+        "visitors": 50467
+      },
+      {
+        "year": 2022,
+        "visitors": 104476
+      },
+      {
+        "year": 2023,
+        "visitors": 137335
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "low",
+    "tags": [
+      "east-java"
+    ],
+    "imageQuery": "Tumpak Sewu waterfall",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Komodo National Park",
+    "slug": "komodo-national-park-indonesia",
+    "country": "Indonesia",
+    "category": "Islands",
+    "type": "National Marine Park",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        119.5,
+        -8.55
+      ]
+    },
+    "description": "Home of the Komodo dragon with pink beaches and world-class diving.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 253020
+      },
+      {
+        "year": 2020,
+        "visitors": 67505
+      },
+      {
+        "year": 2021,
+        "visitors": 89567
+      },
+      {
+        "year": 2022,
+        "visitors": 172893
+      },
+      {
+        "year": 2023,
+        "visitors": 241933
+      }
+    ],
+    "rating": 4.9,
+    "entranceFee": "high",
+    "tags": [
+      "flores",
+      "unesco"
+    ],
+    "imageQuery": "Komodo National Park dragons",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Gili Islands",
+    "slug": "gili-islands-indonesia",
+    "country": "Indonesia",
+    "category": "Islands",
+    "type": "Island Group",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.07,
+        -8.35
+      ]
+    },
+    "description": "Car-free island trio off Lombok for snorkeling and beach bars.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 802250
+      },
+      {
+        "year": 2020,
+        "visitors": 221332
+      },
+      {
+        "year": 2021,
+        "visitors": 270940
+      },
+      {
+        "year": 2022,
+        "visitors": 586012
+      },
+      {
+        "year": 2023,
+        "visitors": 749638
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "medium",
+    "tags": [
+      "lombok"
+    ],
+    "imageQuery": "Gili Islands Lombok",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Lake Toba",
+    "slug": "lake-toba-indonesia",
+    "country": "Indonesia",
+    "category": "Lakes & Rivers",
+    "type": "Crater Lake",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.87,
+        2.6
+      ]
+    },
+    "description": "Largest volcanic crater lake on Earth in North Sumatra.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 340701
+      },
+      {
+        "year": 2020,
+        "visitors": 101345
+      },
+      {
+        "year": 2021,
+        "visitors": 122176
+      },
+      {
+        "year": 2022,
+        "visitors": 251446
+      },
+      {
+        "year": 2023,
+        "visitors": 327073
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "low",
+    "tags": [
+      "sumatra",
+      "caldera"
+    ],
+    "imageQuery": "Lake Toba Sumatra",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Sekumpul Waterfall",
+    "slug": "sekumpul-waterfall-indonesia",
+    "country": "Indonesia",
+    "category": "Waterfalls",
+    "type": "Multi-tier",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        115.2,
+        -8.18
+      ]
+    },
+    "description": "Cluster of tall jungle waterfalls in North Bali.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 100013
+      },
+      {
+        "year": 2020,
+        "visitors": 27070
+      },
+      {
+        "year": 2021,
+        "visitors": 34095
+      },
+      {
+        "year": 2022,
+        "visitors": 69587
+      },
+      {
+        "year": 2023,
+        "visitors": 96266
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "low",
+    "tags": [
+      "bali"
+    ],
+    "imageQuery": "Sekumpul Waterfall Bali",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Chocolate Hills",
+    "slug": "chocolate-hills-philippines",
+    "country": "Philippines",
+    "category": "Mountains & Highlands",
+    "type": "Viewpoint/Hill Station",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        124.15,
+        9.8
+      ]
+    },
+    "description": "Hundreds of symmetrical haycock hills in Bohol that brown in dry season.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 491223
+      },
+      {
+        "year": 2020,
+        "visitors": 139163
+      },
+      {
+        "year": 2021,
+        "visitors": 175731
+      },
+      {
+        "year": 2022,
+        "visitors": 358290
+      },
+      {
+        "year": 2023,
+        "visitors": 467604
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "low",
+    "tags": [
+      "bohol"
+    ],
+    "imageQuery": "Chocolate Hills Bohol",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Mount Apo",
+    "slug": "mount-apo-philippines",
+    "country": "Philippines",
+    "category": "Mountains & Highlands",
+    "type": "Trekking Peak",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        125.27,
+        6.99
+      ]
+    },
+    "description": "Highest peak in the Philippines — multi-day trek in Mindanao.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 39276
+      },
+      {
+        "year": 2020,
+        "visitors": 10856
+      },
+      {
+        "year": 2021,
+        "visitors": 13941
+      },
+      {
+        "year": 2022,
+        "visitors": 27996
+      },
+      {
+        "year": 2023,
+        "visitors": 39030
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "medium",
+    "tags": [
+      "mindanao"
+    ],
+    "imageQuery": "Mount Apo Philippines",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Boracay White Beach",
+    "slug": "boracay-white-beach-philippines",
+    "country": "Philippines",
+    "category": "Beaches",
+    "type": "White Sand",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        121.925,
+        11.967
+      ]
+    },
+    "description": "Powder-white beach island famed for sunsets and nightlife.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1989815
+      },
+      {
+        "year": 2020,
+        "visitors": 565339
+      },
+      {
+        "year": 2021,
+        "visitors": 696226
+      },
+      {
+        "year": 2022,
+        "visitors": 1470454
+      },
+      {
+        "year": 2023,
+        "visitors": 1906311
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "free",
+    "tags": [
+      "boracay"
+    ],
+    "imageQuery": "Boracay White Beach",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "El Nido Lagoons",
+    "slug": "el-nido-lagoons-philippines",
+    "country": "Philippines",
+    "category": "Beaches",
+    "type": "Diving/Snorkeling",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        119.39,
+        11.18
+      ]
+    },
+    "description": "Limestone lagoons and island-hopping in northern Palawan.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 687711
+      },
+      {
+        "year": 2020,
+        "visitors": 194537
+      },
+      {
+        "year": 2021,
+        "visitors": 252584
+      },
+      {
+        "year": 2022,
+        "visitors": 498628
+      },
+      {
+        "year": 2023,
+        "visitors": 643401
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "medium",
+    "tags": [
+      "palawan"
+    ],
+    "imageQuery": "El Nido Big Lagoon",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Siargao Cloud 9",
+    "slug": "siargao-cloud-9-philippines",
+    "country": "Philippines",
+    "category": "Beaches",
+    "type": "Surfing",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        126.1,
+        9.8
+      ]
+    },
+    "description": "World-class reef break that put Siargao on the surf map.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 360811
+      },
+      {
+        "year": 2020,
+        "visitors": 99181
+      },
+      {
+        "year": 2021,
+        "visitors": 123702
+      },
+      {
+        "year": 2022,
+        "visitors": 251787
+      },
+      {
+        "year": 2023,
+        "visitors": 323226
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "free",
+    "tags": [
+      "siargao",
+      "surf"
+    ],
+    "imageQuery": "Cloud 9 Siargao",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Palawan Underground River",
+    "slug": "palawan-underground-river-philippines",
+    "country": "Philippines",
+    "category": "Heritage & Ruins",
+    "type": "UNESCO Site",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        118.925,
+        10.192
+      ]
+    },
+    "description": "Navigable underground river through a spectacular limestone cave.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 608224
+      },
+      {
+        "year": 2020,
+        "visitors": 161747
+      },
+      {
+        "year": 2021,
+        "visitors": 214702
+      },
+      {
+        "year": 2022,
+        "visitors": 434064
+      },
+      {
+        "year": 2023,
+        "visitors": 563781
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "medium",
+    "tags": [
+      "palawan",
+      "unesco"
+    ],
+    "imageQuery": "Puerto Princesa Underground River",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Intramuros",
+    "slug": "intramuros-philippines",
+    "country": "Philippines",
+    "category": "Heritage & Ruins",
+    "type": "Colonial Architecture",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        120.975,
+        14.59
+      ]
+    },
+    "description": "Walled Spanish colonial city at the heart of Manila.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 878562
+      },
+      {
+        "year": 2020,
+        "visitors": 248156
+      },
+      {
+        "year": 2021,
+        "visitors": 316634
+      },
+      {
+        "year": 2022,
+        "visitors": 625614
+      },
+      {
+        "year": 2023,
+        "visitors": 869706
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "low",
+    "tags": [
+      "manila"
+    ],
+    "imageQuery": "Intramuros Manila",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1571
+  },
+  {
+    "name": "Quiapo Market",
+    "slug": "quiapo-market-philippines",
+    "country": "Philippines",
+    "category": "Markets",
+    "type": "Street Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        120.983,
+        14.6
+      ]
+    },
+    "description": "Chaotic Manila market around Quiapo Church for goods and street food.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 1056185
+      },
+      {
+        "year": 2020,
+        "visitors": 302738
+      },
+      {
+        "year": 2021,
+        "visitors": 374648
+      },
+      {
+        "year": 2022,
+        "visitors": 791491
+      },
+      {
+        "year": 2023,
+        "visitors": 1045318
+      }
+    ],
+    "rating": 4,
+    "entranceFee": "free",
+    "tags": [
+      "manila"
+    ],
+    "imageQuery": "Quiapo Market Manila",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Baguio Night Market",
+    "slug": "baguio-night-market-philippines",
+    "country": "Philippines",
+    "category": "Markets",
+    "type": "Night Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        120.59,
+        16.41
+      ]
+    },
+    "description": "Cool-climate night market along Session Road approaches.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 394644
+      },
+      {
+        "year": 2020,
+        "visitors": 112224
+      },
+      {
+        "year": 2021,
+        "visitors": 136409
+      },
+      {
+        "year": 2022,
+        "visitors": 280958
+      },
+      {
+        "year": 2023,
+        "visitors": 381007
+      }
+    ],
+    "rating": 4.1,
+    "entranceFee": "free",
+    "tags": [
+      "baguio"
+    ],
+    "imageQuery": "Baguio night market",
+    "dataProvenance": "invented",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Coron Island",
+    "slug": "coron-island-philippines",
+    "country": "Philippines",
+    "category": "Islands",
+    "type": "Island Group",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        120.2,
+        12
+      ]
+    },
+    "description": "Kayangan Lake and WWII wreck diving among limestone cliffs.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 449000
+      },
+      {
+        "year": 2020,
+        "visitors": 125765
+      },
+      {
+        "year": 2021,
+        "visitors": 161533
+      },
+      {
+        "year": 2022,
+        "visitors": 316675
+      },
+      {
+        "year": 2023,
+        "visitors": 440901
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "medium",
+    "tags": [
+      "palawan",
+      "diving"
+    ],
+    "imageQuery": "Coron Kayangan Lake",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Tubbataha Reefs",
+    "slug": "tubbataha-reefs-philippines",
+    "country": "Philippines",
+    "category": "Islands",
+    "type": "National Marine Park",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        119.8,
+        8.85
+      ]
+    },
+    "description": "Remote UNESCO marine park — premier Philippine dive expedition.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 14803
+      },
+      {
+        "year": 2020,
+        "visitors": 4057
+      },
+      {
+        "year": 2021,
+        "visitors": 5200
+      },
+      {
+        "year": 2022,
+        "visitors": 10804
+      },
+      {
+        "year": 2023,
+        "visitors": 14601
+      }
+    ],
+    "rating": 4.9,
+    "entranceFee": "high",
+    "tags": [
+      "unesco",
+      "diving"
+    ],
+    "imageQuery": "Tubbataha Reef diving",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Pagsanjan Falls",
+    "slug": "pagsanjan-falls-philippines",
+    "country": "Philippines",
+    "category": "Waterfalls",
+    "type": "Cave Waterfall",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        121.45,
+        14.27
+      ]
+    },
+    "description": "Boat-accessed falls and gorge near Laguna, classic day trip from Manila.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 258452
+      },
+      {
+        "year": 2020,
+        "visitors": 68956
+      },
+      {
+        "year": 2021,
+        "visitors": 88601
+      },
+      {
+        "year": 2022,
+        "visitors": 179000
+      },
+      {
+        "year": 2023,
+        "visitors": 243320
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "medium",
+    "tags": [
+      "laguna"
+    ],
+    "imageQuery": "Pagsanjan Falls",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Taal Lake",
+    "slug": "taal-lake-philippines",
+    "country": "Philippines",
+    "category": "Lakes & Rivers",
+    "type": "Crater Lake",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        121,
+        14
+      ]
+    },
+    "description": "Lake within a volcano within a lake — dramatic crater views from Tagaytay.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 820004
+      },
+      {
+        "year": 2020,
+        "visitors": 227626
+      },
+      {
+        "year": 2021,
+        "visitors": 278306
+      },
+      {
+        "year": 2022,
+        "visitors": 565335
+      },
+      {
+        "year": 2023,
+        "visitors": 769744
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "free",
+    "tags": [
+      "batangas"
+    ],
+    "imageQuery": "Taal Volcano Lake",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Puerto Galera",
+    "slug": "puerto-galera-philippines",
+    "country": "Philippines",
+    "category": "Beaches",
+    "type": "Resort Beach",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        120.85,
+        13.5
+      ]
+    },
+    "description": "Dive resorts and beaches on Mindoro's northern coast.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 415538
+      },
+      {
+        "year": 2020,
+        "visitors": 108556
+      },
+      {
+        "year": 2021,
+        "visitors": 143512
+      },
+      {
+        "year": 2022,
+        "visitors": 283724
+      },
+      {
+        "year": 2023,
+        "visitors": 375573
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "free",
+    "tags": [
+      "mindoro"
+    ],
+    "imageQuery": "Puerto Galera beach",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Binondo Chinatown Market",
+    "slug": "binondo-chinatown-market-philippines",
+    "country": "Philippines",
+    "category": "Markets",
+    "type": "Wet Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        120.975,
+        14.6
+      ]
+    },
+    "description": "Oldest Chinatown in the world with food streets and wet markets.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 725186
+      },
+      {
+        "year": 2020,
+        "visitors": 196407
+      },
+      {
+        "year": 2021,
+        "visitors": 239228
+      },
+      {
+        "year": 2022,
+        "visitors": 512128
+      },
+      {
+        "year": 2023,
+        "visitors": 671313
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "free",
+    "tags": [
+      "manila",
+      "chinatown"
+    ],
+    "imageQuery": "Binondo Manila food",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1594
+  },
+  {
+    "name": "Omar Ali Saifuddien Mosque",
+    "slug": "omar-ali-saifuddien-mosque-brunei",
+    "country": "Brunei",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        114.939,
+        4.89
+      ]
+    },
+    "description": "Iconic mosque with golden dome and artificial lagoon in Bandar Seri Begawan. (Islamic landmark listed under temple-complex filter for cross-ASEAN comparison tooling.)",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 205618
+      },
+      {
+        "year": 2020,
+        "visitors": 55292
+      },
+      {
+        "year": 2021,
+        "visitors": 68171
+      },
+      {
+        "year": 2022,
+        "visitors": 138730
+      },
+      {
+        "year": 2023,
+        "visitors": 187248
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "free",
+    "tags": [
+      "bandar",
+      "mosque"
+    ],
+    "imageQuery": "Omar Ali Saifuddien Mosque",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1958
+  },
+  {
+    "name": "Tamu Kianggeh",
+    "slug": "tamu-kianggeh-brunei",
+    "country": "Brunei",
+    "category": "Markets",
+    "type": "Wet Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        114.945,
+        4.89
+      ]
+    },
+    "description": "Open-air produce and local goods market in the capital.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 122278
+      },
+      {
+        "year": 2020,
+        "visitors": 34764
+      },
+      {
+        "year": 2021,
+        "visitors": 40952
+      },
+      {
+        "year": 2022,
+        "visitors": 87384
+      },
+      {
+        "year": 2023,
+        "visitors": 114171
+      }
+    ],
+    "rating": 4,
+    "entranceFee": "free",
+    "tags": [
+      "bandar"
+    ],
+    "imageQuery": "Tamu Kianggeh Brunei",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Serasa Beach",
+    "slug": "serasa-beach-brunei",
+    "country": "Brunei",
+    "category": "Beaches",
+    "type": "White Sand",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        115.05,
+        5.02
+      ]
+    },
+    "description": "Popular local beach and water-sports area near Muara.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 80948
+      },
+      {
+        "year": 2020,
+        "visitors": 22123
+      },
+      {
+        "year": 2021,
+        "visitors": 27103
+      },
+      {
+        "year": 2022,
+        "visitors": 55656
+      },
+      {
+        "year": 2023,
+        "visitors": 75846
+      }
+    ],
+    "rating": 3.9,
+    "entranceFee": "free",
+    "tags": [
+      "muara"
+    ],
+    "imageQuery": "Serasa Beach Brunei",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Ulu Temburong National Park",
+    "slug": "ulu-temburong-national-park-brunei",
+    "country": "Brunei",
+    "category": "Mountains & Highlands",
+    "type": "Trekking Peak",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        115.15,
+        4.55
+      ]
+    },
+    "description": "Pristine rainforest canopy walks in Temburong district.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 45510
+      },
+      {
+        "year": 2020,
+        "visitors": 12453
+      },
+      {
+        "year": 2021,
+        "visitors": 15705
+      },
+      {
+        "year": 2022,
+        "visitors": 33678
+      },
+      {
+        "year": 2023,
+        "visitors": 41722
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "medium",
+    "tags": [
+      "temburong"
+    ],
+    "imageQuery": "Ulu Temburong canopy walk",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z",
+    "establishedYear": 1991
+  },
+  {
+    "name": "Tasek Lama Waterfall",
+    "slug": "tasek-lama-waterfall-brunei",
+    "country": "Brunei",
+    "category": "Waterfalls",
+    "type": "Single Drop",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        114.94,
+        4.91
+      ]
+    },
+    "description": "City-edge waterfall hike popular with Bandar residents.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 51844
+      },
+      {
+        "year": 2020,
+        "visitors": 13677
+      },
+      {
+        "year": 2021,
+        "visitors": 17072
+      },
+      {
+        "year": 2022,
+        "visitors": 37223
+      },
+      {
+        "year": 2023,
+        "visitors": 45830
+      }
+    ],
+    "rating": 4,
+    "entranceFee": "free",
+    "tags": [
+      "bandar"
+    ],
+    "imageQuery": "Tasek Lama waterfall Brunei",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.342Z"
+  },
+  {
+    "name": "Kampong Ayer Heritage",
+    "slug": "kampong-ayer-heritage-brunei",
+    "country": "Brunei",
+    "category": "Heritage & Ruins",
+    "type": "Colonial Architecture",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        114.948,
+        4.883
+      ]
+    },
+    "description": "Historic water village on stilts — Venice of the East.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 184677
+      },
+      {
+        "year": 2020,
+        "visitors": 52096
+      },
+      {
+        "year": 2021,
+        "visitors": 60953
+      },
+      {
+        "year": 2022,
+        "visitors": 132439
+      },
+      {
+        "year": 2023,
+        "visitors": 174601
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "free",
+    "tags": [
+      "water-village"
+    ],
+    "imageQuery": "Kampong Ayer Brunei",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Pelong Rocks",
+    "slug": "pelong-rocks-brunei",
+    "country": "Brunei",
+    "category": "Islands",
+    "type": "Island Group",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        115.07,
+        5.04
+      ]
+    },
+    "description": "Small rocky islets near Muara used for local boat trips.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 20009
+      },
+      {
+        "year": 2020,
+        "visitors": 5398
+      },
+      {
+        "year": 2021,
+        "visitors": 6909
+      },
+      {
+        "year": 2022,
+        "visitors": 14549
+      },
+      {
+        "year": 2023,
+        "visitors": 18465
+      }
+    ],
+    "rating": 3.8,
+    "entranceFee": "low",
+    "tags": [
+      "muara"
+    ],
+    "imageQuery": "Pelong Rocks Brunei",
+    "dataProvenance": "invented",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Brunei River Cruise",
+    "slug": "brunei-river-cruise-brunei",
+    "country": "Brunei",
+    "category": "Lakes & Rivers",
+    "type": "Scenic River Cruise",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        114.95,
+        4.88
+      ]
+    },
+    "description": "Boat tours through Kampong Ayer and mangrove waterways.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 92765
+      },
+      {
+        "year": 2020,
+        "visitors": 24823
+      },
+      {
+        "year": 2021,
+        "visitors": 31950
+      },
+      {
+        "year": 2022,
+        "visitors": 65598
+      },
+      {
+        "year": 2023,
+        "visitors": 88190
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "medium",
+    "tags": [
+      "bandar",
+      "river"
+    ],
+    "imageQuery": "Brunei River cruise Kampong Ayer",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Cristo Rei Dili",
+    "slug": "cristo-rei-dili-timor-leste",
+    "country": "Timor-Leste",
+    "category": "Heritage & Ruins",
+    "type": "Colonial Architecture",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        125.61,
+        -8.52
+      ]
+    },
+    "description": "Hilltop Christ statue overlooking Dili Bay — national landmark.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 34809
+      },
+      {
+        "year": 2020,
+        "visitors": 9995
+      },
+      {
+        "year": 2021,
+        "visitors": 12597
+      },
+      {
+        "year": 2022,
+        "visitors": 24333
+      },
+      {
+        "year": 2023,
+        "visitors": 34256
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "free",
+    "tags": [
+      "dili"
+    ],
+    "imageQuery": "Cristo Rei Dili Timor-Leste",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z",
+    "establishedYear": 1996
+  },
+  {
+    "name": "Jaco Island",
+    "slug": "jaco-island-timor-leste",
+    "country": "Timor-Leste",
+    "category": "Islands",
+    "type": "National Marine Park",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        127.32,
+        -8.42
+      ]
+    },
+    "description": "Sacred uninhabited island at Timor's eastern tip with pristine waters.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 7752
+      },
+      {
+        "year": 2020,
+        "visitors": 2191
+      },
+      {
+        "year": 2021,
+        "visitors": 2692
+      },
+      {
+        "year": 2022,
+        "visitors": 5558
+      },
+      {
+        "year": 2023,
+        "visitors": 7759
+      }
+    ],
+    "rating": 4.6,
+    "entranceFee": "low",
+    "tags": [
+      "lautem"
+    ],
+    "imageQuery": "Jaco Island Timor-Leste",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Atauro Island Dive Sites",
+    "slug": "atauro-island-dive-sites-timor-leste",
+    "country": "Timor-Leste",
+    "category": "Beaches",
+    "type": "Diving/Snorkeling",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        125.57,
+        -8.22
+      ]
+    },
+    "description": "World-class coral biodiversity island north of Dili.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 12477
+      },
+      {
+        "year": 2020,
+        "visitors": 3339
+      },
+      {
+        "year": 2021,
+        "visitors": 4364
+      },
+      {
+        "year": 2022,
+        "visitors": 8577
+      },
+      {
+        "year": 2023,
+        "visitors": 11501
+      }
+    ],
+    "rating": 4.8,
+    "entranceFee": "medium",
+    "tags": [
+      "atauro",
+      "diving"
+    ],
+    "imageQuery": "Atauro Island diving Timor",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Kek Seng Beopsa Temple",
+    "slug": "kek-seng-beopsa-temple-malaysia",
+    "country": "Malaysia",
+    "category": "Pagodas & Temples",
+    "type": "Monastery",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.7,
+        3.15
+      ]
+    },
+    "description": "Urban Buddhist monastery courtyard used by local devotees in Greater KL.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 43794
+      },
+      {
+        "year": 2020,
+        "visitors": 12319
+      },
+      {
+        "year": 2021,
+        "visitors": 15230
+      },
+      {
+        "year": 2022,
+        "visitors": 32036
+      },
+      {
+        "year": 2023,
+        "visitors": 41083
+      }
+    ],
+    "rating": 4,
+    "entranceFee": "free",
+    "tags": [
+      "kl"
+    ],
+    "imageQuery": "Buddhist monastery Kuala Lumpur",
+    "dataProvenance": "invented",
+    "createdAt": "2026-09-10T12:39:46.343Z",
+    "establishedYear": 1975
+  },
+  {
+    "name": "Wat Ong Teu",
+    "slug": "wat-ong-teu-laos",
+    "country": "Laos",
+    "category": "Pagodas & Temples",
+    "type": "Monastery",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.61,
+        17.97
+      ]
+    },
+    "description": "Important Vientiane monastery historically linked to Lao Buddhism.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 87030
+      },
+      {
+        "year": 2020,
+        "visitors": 26092
+      },
+      {
+        "year": 2021,
+        "visitors": 31053
+      },
+      {
+        "year": 2022,
+        "visitors": 67034
+      },
+      {
+        "year": 2023,
+        "visitors": 88822
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "free",
+    "tags": [
+      "vientiane"
+    ],
+    "imageQuery": "Wat Ong Teu Vientiane",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Cao Dai Tay Ninh",
+    "slug": "cao-dai-tay-ninh-vietnam",
+    "country": "Vietnam",
+    "category": "Pagodas & Temples",
+    "type": "Temple Complex",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        106.1,
+        11.31
+      ]
+    },
+    "description": "Colorful Cao Dai holy see temple northwest of Ho Chi Minh City.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 387580
+      },
+      {
+        "year": 2020,
+        "visitors": 109128
+      },
+      {
+        "year": 2021,
+        "visitors": 141177
+      },
+      {
+        "year": 2022,
+        "visitors": 279711
+      },
+      {
+        "year": 2023,
+        "visitors": 383672
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "free",
+    "tags": [
+      "tay-ninh"
+    ],
+    "imageQuery": "Cao Dai Temple Tay Ninh",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z",
+    "establishedYear": 1933
+  },
+  {
+    "name": "Mount Makiling Trail",
+    "slug": "mount-makiling-trail-philippines",
+    "country": "Philippines",
+    "category": "Mountains & Highlands",
+    "type": "Sacred Mountain",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        121.2,
+        14.13
+      ]
+    },
+    "description": "Legendary sacred mountain and biodiversity reserve south of Manila.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 69292
+      },
+      {
+        "year": 2020,
+        "visitors": 20139
+      },
+      {
+        "year": 2021,
+        "visitors": 23801
+      },
+      {
+        "year": 2022,
+        "visitors": 48437
+      },
+      {
+        "year": 2023,
+        "visitors": 66249
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "free",
+    "tags": [
+      "laguna"
+    ],
+    "imageQuery": "Mount Makiling Philippines",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Doi Pha Hom Pok",
+    "slug": "doi-pha-hom-pok-thailand",
+    "country": "Thailand",
+    "category": "Mountains & Highlands",
+    "type": "Sacred Mountain",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.15,
+        20.05
+      ]
+    },
+    "description": "Second-highest Thai peak with sacred highland lore near Fang.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 52826
+      },
+      {
+        "year": 2020,
+        "visitors": 15177
+      },
+      {
+        "year": 2021,
+        "visitors": 19155
+      },
+      {
+        "year": 2022,
+        "visitors": 38792
+      },
+      {
+        "year": 2023,
+        "visitors": 51176
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "low",
+    "tags": [
+      "chiang-mai"
+    ],
+    "imageQuery": "Doi Pha Hom Pok",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Mount Agung",
+    "slug": "mount-agung-indonesia",
+    "country": "Indonesia",
+    "category": "Mountains & Highlands",
+    "type": "Sacred Mountain",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        115.508,
+        -8.342
+      ]
+    },
+    "description": "Bali's sacred volcano towering over Besakih mother temple.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 175371
+      },
+      {
+        "year": 2020,
+        "visitors": 50365
+      },
+      {
+        "year": 2021,
+        "visitors": 63496
+      },
+      {
+        "year": 2022,
+        "visitors": 126291
+      },
+      {
+        "year": 2023,
+        "visitors": 170515
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "medium",
+    "tags": [
+      "bali",
+      "volcano"
+    ],
+    "imageQuery": "Mount Agung Bali",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Dawna Range Viewpoint",
+    "slug": "dawna-range-viewpoint-myanmar",
+    "country": "Myanmar",
+    "category": "Mountains & Highlands",
+    "type": "Viewpoint/Hill Station",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.5,
+        16.8
+      ]
+    },
+    "description": "Hill viewpoint along the Thai–Myanmar border ranges.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 19292
+      },
+      {
+        "year": 2020,
+        "visitors": 5468
+      },
+      {
+        "year": 2021,
+        "visitors": 6741
+      },
+      {
+        "year": 2022,
+        "visitors": 14111
+      },
+      {
+        "year": 2023,
+        "visitors": 18465
+      }
+    ],
+    "rating": 4.1,
+    "entranceFee": "free",
+    "tags": [
+      "kayin"
+    ],
+    "imageQuery": "Dawna Range Myanmar viewpoint",
+    "dataProvenance": "invented",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Erawan Falls",
+    "slug": "erawan-falls-thailand",
+    "country": "Thailand",
+    "category": "Waterfalls",
+    "type": "Multi-tier",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.145,
+        14.37
+      ]
+    },
+    "description": "Seven-tier turquoise waterfall in Erawan National Park.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 512273
+      },
+      {
+        "year": 2020,
+        "visitors": 137970
+      },
+      {
+        "year": 2021,
+        "visitors": 180811
+      },
+      {
+        "year": 2022,
+        "visitors": 364887
+      },
+      {
+        "year": 2023,
+        "visitors": 471965
+      }
+    ],
+    "rating": 4.7,
+    "entranceFee": "low",
+    "tags": [
+      "kanchanaburi"
+    ],
+    "imageQuery": "Erawan Falls Thailand",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Detian Sister Falls View",
+    "slug": "detian-sister-falls-view-vietnam",
+    "country": "Vietnam",
+    "category": "Waterfalls",
+    "type": "Single Drop",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        106.72,
+        22.86
+      ]
+    },
+    "description": "Vietnamese-side viewing areas for the Ban Gioc–Detian falls complex.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 88719
+      },
+      {
+        "year": 2020,
+        "visitors": 25640
+      },
+      {
+        "year": 2021,
+        "visitors": 31257
+      },
+      {
+        "year": 2022,
+        "visitors": 62989
+      },
+      {
+        "year": 2023,
+        "visitors": 87829
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "low",
+    "tags": [
+      "cao-bang"
+    ],
+    "imageQuery": "Ban Gioc Vietnam viewpoint",
+    "dataProvenance": "invented",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Datanla Waterfall",
+    "slug": "datanla-waterfall-vietnam",
+    "country": "Vietnam",
+    "category": "Waterfalls",
+    "type": "Cave Waterfall",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        108.45,
+        11.9
+      ]
+    },
+    "description": "Falls and alpine coaster near Dalat in the central highlands.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 213889
+      },
+      {
+        "year": 2020,
+        "visitors": 59558
+      },
+      {
+        "year": 2021,
+        "visitors": 77366
+      },
+      {
+        "year": 2022,
+        "visitors": 162826
+      },
+      {
+        "year": 2023,
+        "visitors": 201011
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "low",
+    "tags": [
+      "dalat"
+    ],
+    "imageQuery": "Datanla Waterfall Dalat",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Maria Cristina Falls",
+    "slug": "maria-cristina-falls-philippines",
+    "country": "Philippines",
+    "category": "Waterfalls",
+    "type": "Single Drop",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        124.27,
+        8.18
+      ]
+    },
+    "description": "Powerful twin falls near Iligan, source of hydroelectric power.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 98872
+      },
+      {
+        "year": 2020,
+        "visitors": 26972
+      },
+      {
+        "year": 2021,
+        "visitors": 33966
+      },
+      {
+        "year": 2022,
+        "visitors": 69614
+      },
+      {
+        "year": 2023,
+        "visitors": 93055
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "low",
+    "tags": [
+      "iligan"
+    ],
+    "imageQuery": "Maria Cristina Falls",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Mondulkiri Jungle Falls",
+    "slug": "mondulkiri-jungle-falls-cambodia",
+    "country": "Cambodia",
+    "category": "Waterfalls",
+    "type": "Single Drop",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        107.2,
+        12.45
+      ]
+    },
+    "description": "Remote highland waterfall treks in elephant country Mondulkiri.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 43229
+      },
+      {
+        "year": 2020,
+        "visitors": 12986
+      },
+      {
+        "year": 2021,
+        "visitors": 15394
+      },
+      {
+        "year": 2022,
+        "visitors": 31244
+      },
+      {
+        "year": 2023,
+        "visitors": 42047
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "low",
+    "tags": [
+      "mondulkiri"
+    ],
+    "imageQuery": "Mondulkiri waterfall Cambodia",
+    "dataProvenance": "invented",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Pulau Payar Marine Park",
+    "slug": "pulau-payar-marine-park-malaysia",
+    "country": "Malaysia",
+    "category": "Islands",
+    "type": "National Marine Park",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.27,
+        6.06
+      ]
+    },
+    "description": "Snorkeling marine park island off Kedah.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 146816
+      },
+      {
+        "year": 2020,
+        "visitors": 42587
+      },
+      {
+        "year": 2021,
+        "visitors": 50577
+      },
+      {
+        "year": 2022,
+        "visitors": 109679
+      },
+      {
+        "year": 2023,
+        "visitors": 142125
+      }
+    ],
+    "rating": 4.4,
+    "entranceFee": "medium",
+    "tags": [
+      "kedah"
+    ],
+    "imageQuery": "Pulau Payar marine park",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Thousand Islands Jakarta",
+    "slug": "thousand-islands-jakarta-indonesia",
+    "country": "Indonesia",
+    "category": "Islands",
+    "type": "Island Group",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        106.55,
+        -5.7
+      ]
+    },
+    "description": "Island chain in the Java Sea north of Jakarta for day trips.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 386995
+      },
+      {
+        "year": 2020,
+        "visitors": 109509
+      },
+      {
+        "year": 2021,
+        "visitors": 134548
+      },
+      {
+        "year": 2022,
+        "visitors": 281650
+      },
+      {
+        "year": 2023,
+        "visitors": 384682
+      }
+    ],
+    "rating": 4.1,
+    "entranceFee": "medium",
+    "tags": [
+      "jakarta"
+    ],
+    "imageQuery": "Kepulauan Seribu Jakarta",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Irrawaddy Dolphin Cruise",
+    "slug": "irrawaddy-dolphin-cruise-myanmar",
+    "country": "Myanmar",
+    "category": "Lakes & Rivers",
+    "type": "Scenic River Cruise",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        95.4,
+        21.8
+      ]
+    },
+    "description": "Boat trips seeking Irrawaddy dolphins north of Mandalay.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 33727
+      },
+      {
+        "year": 2020,
+        "visitors": 9595
+      },
+      {
+        "year": 2021,
+        "visitors": 12570
+      },
+      {
+        "year": 2022,
+        "visitors": 25294
+      },
+      {
+        "year": 2023,
+        "visitors": 33904
+      }
+    ],
+    "rating": 4.5,
+    "entranceFee": "medium",
+    "tags": [
+      "ayeyarwady"
+    ],
+    "imageQuery": "Irrawaddy dolphin Myanmar",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Sungai Petani River Walk",
+    "slug": "sungai-petani-river-walk-malaysia",
+    "country": "Malaysia",
+    "category": "Lakes & Rivers",
+    "type": "River Delta",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.49,
+        5.65
+      ]
+    },
+    "description": "Riverside promenade and estuary walks in southern Kedah.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 41507
+      },
+      {
+        "year": 2020,
+        "visitors": 11186
+      },
+      {
+        "year": 2021,
+        "visitors": 13871
+      },
+      {
+        "year": 2022,
+        "visitors": 28935
+      },
+      {
+        "year": 2023,
+        "visitors": 36855
+      }
+    ],
+    "rating": 3.7,
+    "entranceFee": "free",
+    "tags": [
+      "kedah"
+    ],
+    "imageQuery": "Sungai Petani riverwalk",
+    "dataProvenance": "invented",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Pasar Malam Geylang Serai",
+    "slug": "pasar-malam-geylang-serai-singapore",
+    "country": "Singapore",
+    "category": "Markets",
+    "type": "Night Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.898,
+        1.317
+      ]
+    },
+    "description": "Festive Malay night market atmosphere in Geylang Serai.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 498141
+      },
+      {
+        "year": 2020,
+        "visitors": 139616
+      },
+      {
+        "year": 2021,
+        "visitors": 176579
+      },
+      {
+        "year": 2022,
+        "visitors": 351490
+      },
+      {
+        "year": 2023,
+        "visitors": 469902
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "free",
+    "tags": [
+      "geylang"
+    ],
+    "imageQuery": "Geylang Serai night market",
+    "dataProvenance": "real",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Bagan Floating Market Spot",
+    "slug": "bagan-floating-market-spot-myanmar",
+    "country": "Myanmar",
+    "category": "Markets",
+    "type": "Floating Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        94.88,
+        21.17
+      ]
+    },
+    "description": "Seasonal riverside produce trading near Bagan boat landings.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 30575
+      },
+      {
+        "year": 2020,
+        "visitors": 8420
+      },
+      {
+        "year": 2021,
+        "visitors": 10652
+      },
+      {
+        "year": 2022,
+        "visitors": 20912
+      },
+      {
+        "year": 2023,
+        "visitors": 27592
+      }
+    ],
+    "rating": 3.9,
+    "entranceFee": "free",
+    "tags": [
+      "bagan"
+    ],
+    "imageQuery": "Bagan riverside market Myanmar",
+    "dataProvenance": "invented",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Kampot Pepper Farm Market",
+    "slug": "kampot-pepper-farm-market-cambodia",
+    "country": "Cambodia",
+    "category": "Markets",
+    "type": "Flea Market",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.18,
+        10.61
+      ]
+    },
+    "description": "Farm-gate and weekend stalls selling famous Kampot pepper.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 80018
+      },
+      {
+        "year": 2020,
+        "visitors": 22901
+      },
+      {
+        "year": 2021,
+        "visitors": 28950
+      },
+      {
+        "year": 2022,
+        "visitors": 58739
+      },
+      {
+        "year": 2023,
+        "visitors": 74547
+      }
+    ],
+    "rating": 4.2,
+    "entranceFee": "free",
+    "tags": [
+      "kampot"
+    ],
+    "imageQuery": "Kampot pepper farm",
+    "dataProvenance": "invented",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  },
+  {
+    "name": "Balinese Sea Temple Tanah Lot Rocks",
+    "slug": "balinese-sea-temple-tanah-lot-rocks-indonesia",
+    "country": "Indonesia",
+    "category": "Beaches",
+    "type": "Rocky Coast",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        115.086,
+        -8.622
+      ]
+    },
+    "description": "Rocky coastal shelves around Tanah Lot used for sunset photography.",
+    "yearlyVisitors": [
+      {
+        "year": 2019,
+        "visitors": 590776
+      },
+      {
+        "year": 2020,
+        "visitors": 169481
+      },
+      {
+        "year": 2021,
+        "visitors": 201870
+      },
+      {
+        "year": 2022,
+        "visitors": 422760
+      },
+      {
+        "year": 2023,
+        "visitors": 581656
+      }
+    ],
+    "rating": 4.3,
+    "entranceFee": "free",
+    "tags": [
+      "bali"
+    ],
+    "imageQuery": "Tanah Lot rocky coast",
+    "dataProvenance": "invented",
+    "createdAt": "2026-09-10T12:39:46.343Z"
+  }
+]
