@@ -69,17 +69,26 @@ export default function ComparePage() {
       setPeerId(null);
       return;
     }
+    let cancelled = false;
     setLoading(true);
     setError(null);
     setPeerId(null);
     api
       .compare(selectedId, 40)
       .then((data) => {
+        if (cancelled) return;
         setResult(data);
         if (data.source?.name) setQuery(data.source.name);
       })
-      .catch((err) => setError(err.message))
-      .finally(() => setLoading(false));
+      .catch((err) => {
+        if (!cancelled) setError(err.message);
+      })
+      .finally(() => {
+        if (!cancelled) setLoading(false);
+      });
+    return () => {
+      cancelled = true;
+    };
   }, [selectedId]);
 
   function selectMyanmar(site) {
@@ -111,7 +120,12 @@ export default function ComparePage() {
 
   const duoTrend = useMemo(() => {
     if (!result?.source || !activePeer) return [];
-    const years = [2019, 2020, 2021, 2022, 2023];
+    const years = [
+      ...new Set([
+        ...(result.source.yearlyVisitors || []).map((y) => y.year),
+        ...(activePeer.yearlyVisitors || []).map((y) => y.year),
+      ]),
+    ].sort((a, b) => a - b);
     return years.map((year) => ({
       year,
       [result.source.name]:
