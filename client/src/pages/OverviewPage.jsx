@@ -74,19 +74,45 @@ export default function OverviewPage() {
       </header>
 
       <div className="stat-cards">
-        <div className="stat-card">
+        <div className="stat-card" style={{ '--stat-color': 'var(--accent)' }}>
+          <div className="stat-card__icon">
+            <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M10 18s6-5.5 6-10a6 6 0 1 0-12 0c0 4.5 6 10 6 10Z" />
+              <circle cx="10" cy="8" r="2.1" />
+            </svg>
+          </div>
           <span className="label">Total sites</span>
           <strong>{stats.totalSites}</strong>
         </div>
-        <div className="stat-card">
+        <div className="stat-card" style={{ '--stat-color': 'var(--gold)' }}>
+          <div className="stat-card__icon">
+            <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
+              <circle cx="10" cy="10" r="7.5" />
+              <ellipse cx="10" cy="10" rx="3.1" ry="7.5" />
+              <path d="M2.5 10h15" />
+            </svg>
+          </div>
           <span className="label">Countries</span>
           <strong>{stats.totalCountries}</strong>
         </div>
-        <div className="stat-card">
+        <div className="stat-card" style={{ '--stat-color': 'var(--accent-warm)' }}>
+          <div className="stat-card__icon">
+            <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M10 2.5 2.5 6.5 10 10.5l7.5-4Z" />
+              <path d="M2.5 10.5 10 14.5l7.5-4" />
+              <path d="M2.5 14.5 10 18.5l7.5-4" />
+            </svg>
+          </div>
           <span className="label">Categories</span>
           <strong>{stats.totalCategories}</strong>
         </div>
-        <div className="stat-card">
+        <div className="stat-card" style={{ '--stat-color': '#7be0b8' }}>
+          <div className="stat-card__icon">
+            <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M2.5 14 8 8.5l3.5 3.5L17.5 5" />
+              <path d="M12.5 5H17.5V10" />
+            </svg>
+          </div>
           <span className="label">Est. latest-year visitors</span>
           <strong>{formatVisitors(stats.totalEstimatedVisitorsLatestYear)}</strong>
         </div>
@@ -137,7 +163,10 @@ export default function OverviewPage() {
             <h2>Open the ASEAN map</h2>
             <p>Color-coded countries and category markers — no road clutter.</p>
           </div>
-          <span className="teaser-card__cta">View map →</span>
+          <span className="teaser-card__cta">
+            View map
+            <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><path d="M8 5l5 5-5 5" /></svg>
+          </span>
         </Link>
         <Link to="/compare" className="teaser-card">
           <div>
@@ -148,7 +177,10 @@ export default function OverviewPage() {
               visitor comparison.
             </p>
           </div>
-          <span className="teaser-card__cta">Open comparison →</span>
+          <span className="teaser-card__cta">
+            Open comparison
+            <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><path d="M8 5l5 5-5 5" /></svg>
+          </span>
         </Link>
       </div>
 

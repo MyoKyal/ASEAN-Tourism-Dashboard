@@ -100,15 +100,34 @@ export default function FilterSidebar({
         </label>
 
         <label className="field">
-          <span>Min rating: {ratingDraft.toFixed(1)}</span>
-          <input
-            type="range"
-            min="0"
-            max="5"
-            step="0.5"
-            value={ratingDraft}
-            onChange={(e) => setRatingDraft(Number(e.target.value))}
-          />
+          <span>Min rating</span>
+          <div
+            className="rating-slider"
+            style={{ '--fill': `${(ratingDraft / 5) * 100}%` }}
+          >
+            <div
+              className="rating-bubble"
+              style={{ left: `${(ratingDraft / 5) * 100}%` }}
+            >
+              {ratingDraft.toFixed(1)}
+            </div>
+            <input
+              type="range"
+              min="0"
+              max="5"
+              step="0.5"
+              value={ratingDraft}
+              onChange={(e) => setRatingDraft(Number(e.target.value))}
+            />
+            <div className="rating-ticks">
+              <span>0</span>
+              <span>1</span>
+              <span>2</span>
+              <span>3</span>
+              <span>4</span>
+              <span>5</span>
+            </div>
+          </div>
         </label>
 
         <fieldset className="field">
