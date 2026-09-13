@@ -115,9 +115,12 @@ export default function MapPage() {
             <FitAseanView sites={sites} />
             <MarkerClusterGroup
               chunkedLoading
-              maxClusterRadius={40}
-              disableClusteringAtZoom={5}
+              // Keep nearby sites grouped while zooming in. Full-size markers
+              // can still overlap while nearby sites are geographically close.
+              maxClusterRadius={48}
+              disableClusteringAtZoom={10}
               spiderfyOnMaxZoom
+              spiderfyDistanceMultiplier={1.35}
               showCoverageOnHover={false}
               zoomToBoundsOnClick
               animate
