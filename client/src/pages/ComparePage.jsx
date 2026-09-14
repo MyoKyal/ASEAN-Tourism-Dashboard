@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import { MapContainer, Marker, Popup } from 'react-leaflet';
+import { MapContainer, Marker, Popup, Tooltip as MapTooltip } from 'react-leaflet';
 import {
   BarChart,
   Bar,
@@ -216,6 +216,9 @@ export default function ComparePage() {
               <span>
                 {result.type} · {formatVisitors(result.source?.latestVisitors)} visitors
               </span>
+              {result.source?.description ? (
+                <p className="compare-desc">{result.source.description}</p>
+              ) : null}
             </div>
 
             {result.percentile != null && (
@@ -246,6 +249,9 @@ export default function ComparePage() {
                       <div className="duo-card duo-card--mm">
                         <span className="pill-label">Myanmar</span>
                         <h3>{result.source.name}</h3>
+                        {result.source.description ? (
+                          <p className="compare-desc">{result.source.description}</p>
+                        ) : null}
                         <dl>
                           <div>
                             <dt>Visitors</dt>
@@ -261,6 +267,9 @@ export default function ComparePage() {
                       <div className="duo-card duo-card--peer">
                         <span className="pill-label">{activePeer.country}</span>
                         <h3>{activePeer.name}</h3>
+                        {activePeer.description ? (
+                          <p className="compare-desc">{activePeer.description}</p>
+                        ) : null}
                         <dl>
                           <div>
                             <dt>Visitors</dt>
@@ -423,6 +432,14 @@ export default function ComparePage() {
                   click: () => onMarkerClick(site),
                 }}
               >
+                <MapTooltip
+                  direction="top"
+                  offset={[0, -8]}
+                  opacity={1}
+                  className="site-marker-tooltip"
+                >
+                  {site.name}
+                </MapTooltip>
                 <Popup>
                   <strong>{site.name}</strong>
                   <br />

@@ -9,7 +9,8 @@ export function AseanBoundsLock() {
     map.setMaxBounds(ASEAN_BOUNDS);
     map.options.maxBoundsViscosity = 0.85;
     map.setMinZoom(4);
-    map.setMaxZoom(10);
+    // Allow city-level zoom so nearby temples/markets can separate or spiderfy
+    map.setMaxZoom(14);
   }, [map]);
   return null;
 }

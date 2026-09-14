@@ -1,8 +1,11 @@
 /**
  * Seed site definitions for ASEAN Tourism Dashboard.
- * dataProvenance: "real" = well-known place name; "invented" = plausible filler for course coverage.
- * Visitor numbers are synthetic / AI-approximated for coursework — not official tourism stats.
+ * Site names and coordinates target real destinations across ASEAN.
+ * Descriptions and selected 2019 visitor baselines are enriched in siteEnrichment.js.
+ * Yearly series still apply a coursework COVID-dip model — not official ministry time series.
  */
+
+const { applyEnrichment } = require('./siteEnrichment');
 
 function slugify(name, country) {
   return `${name}-${country}`
@@ -277,7 +280,7 @@ function buildSites() {
       tags,
       imageQuery,
       dataProvenance,
-    ] = row;
+    ] = applyEnrichment(row);
 
     const doc = {
       name,

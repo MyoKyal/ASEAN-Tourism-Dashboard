@@ -52,7 +52,7 @@ A `2dsphere` index supports `GET /api/sites/near` (`$near` / max distance). Long
 - **`slug`:** unique URL-friendly id for future deep links; ObjectId remains the primary API `:id`.
 - **`entranceFee`:** enum `free | low | medium | high` — ordinal tier, not currency, so cross-country fee comparison stays simple.
 - **`imageQuery`:** short search phrase for later photo lookup (no binary blobs in MongoDB).
-- **`dataProvenance`:** `real` vs `invented` marks seed authenticity for the project report (visitor counts for landmarks are approximations, not official tourism-board figures).
+- **`dataProvenance`:** Kept as `real` for current seed rows (destinations are real places). Visitor yearly series are still coursework estimates with a COVID pattern; a few 2019 baselines are calibrated to published figures.
 
 ## Why MongoDB fits this project
 

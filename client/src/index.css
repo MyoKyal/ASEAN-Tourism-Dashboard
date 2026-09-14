@@ -589,6 +589,22 @@ select {
   border-top-color: rgba(10, 22, 40, 0.92) !important;
 }
 
+.leaflet-tooltip.site-marker-tooltip {
+  background: rgba(10, 22, 40, 0.94) !important;
+  border: 1px solid rgba(126, 184, 216, 0.45) !important;
+  color: #fff !important;
+  border-radius: 6px !important;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35) !important;
+  font-size: 0.8rem !important;
+  font-weight: 600 !important;
+  padding: 5px 9px !important;
+  white-space: nowrap;
+}
+
+.leaflet-tooltip.site-marker-tooltip::before {
+  border-top-color: rgba(10, 22, 40, 0.94) !important;
+}
+
 .leaflet-popup-content-wrapper {
   background: #132238;
   color: #e8eef6;
@@ -618,6 +634,12 @@ select {
   background: #1a4a6e !important;
   color: #fff !important;
   font-weight: 700 !important;
+}
+
+/* Spiderfy legs visible on the dark ASEAN base map */
+.leaflet-cluster-spider-leg {
+  stroke: #7eb8d8 !important;
+  stroke-opacity: 0.85 !important;
 }
 
 .site-panel {
@@ -708,8 +730,11 @@ select {
 
 .site-panel__desc {
   font-size: 0.9rem;
-  line-height: 1.5;
+  line-height: 1.55;
   color: #c5d4e3;
+  max-height: 12rem;
+  overflow-y: auto;
+  padding-right: 0.25rem;
 }
 
 .site-panel__meta {
@@ -824,9 +849,23 @@ select {
   margin-bottom: 0.2rem;
 }
 
-.compare-pill > span:last-child {
+.compare-pill > span:not(.pill-label) {
   font-size: 0.8rem;
   color: var(--muted);
+}
+
+.compare-desc {
+  margin: 0.55rem 0 0;
+  font-size: 0.78rem;
+  line-height: 1.45;
+  color: #c5d4e3;
+  max-height: 6.5rem;
+  overflow-y: auto;
+}
+
+.duo-card .compare-desc {
+  margin: 0 0 0.55rem;
+  max-height: 5.5rem;
 }
 
 .source-pill {

@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { MapContainer, Marker, Popup } from 'react-leaflet';
+import { MapContainer, Marker, Popup, Tooltip } from 'react-leaflet';
 import MarkerClusterGroup from 'react-leaflet-cluster';
 import { api } from '../api';
 import FilterSidebar from '../components/FilterSidebar';
@@ -65,14 +65,14 @@ export default function MapPage() {
   const icons = useMemo(() => {
     const map = {};
     Object.keys(CATEGORY_COLORS).forEach((cat) => {
-      map[cat] = createCategoryIcon(cat, { size: 42 });
+      map[cat] = createCategoryIcon(cat, { size: 36 });
     });
     return map;
   }, []);
 
   const selectedIcon = useMemo(() => {
     if (!selected) return null;
-    return createCategoryIcon(selected.category, { size: 48, selected: true });
+    return createCategoryIcon(selected.category, { size: 44, selected: true });
   }, [selected]);
 
   return (
@@ -115,12 +115,16 @@ export default function MapPage() {
             <FitAseanView sites={sites} />
             <MarkerClusterGroup
               chunkedLoading
-              // Keep nearby sites grouped while zooming in. Full-size markers
-              // can still overlap while nearby sites are geographically close.
-              maxClusterRadius={48}
-              disableClusteringAtZoom={10}
+              // Keep clustering active through max zoom so stacked sites spiderfy
+              // instead of permanently overlapping (Bagan, Angkor, Bangkok, etc.).
+              maxClusterRadius={(zoom) => {
+                if (zoom >= 13) return 28;
+                if (zoom >= 11) return 36;
+                if (zoom >= 8) return 48;
+                return 60;
+              }}
               spiderfyOnMaxZoom
-              spiderfyDistanceMultiplier={1.35}
+              spiderfyDistanceMultiplier={2.2}
               showCoverageOnHover={false}
               zoomToBoundsOnClick
               animate
@@ -143,6 +147,14 @@ export default function MapPage() {
                       click: () => setSelected(site),
                     }}
                   >
+                    <Tooltip
+                      direction="top"
+                      offset={[0, -8]}
+                      opacity={1}
+                      className="site-marker-tooltip"
+                    >
+                      {site.name}
+                    </Tooltip>
                     <Popup>
                       <strong>{site.name}</strong>
                       <br />

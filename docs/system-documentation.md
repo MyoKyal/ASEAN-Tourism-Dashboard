@@ -163,7 +163,7 @@ Timor-Leste has only a handful of sites and may be absent from some categories. 
 
 ### 3.8 Data disclaimer
 
-Visitor numbers are **synthetic or AI-approximated for coursework**, not official tourism-board statistics. Seed entries include `dataProvenance: "real" | "invented"` for report honesty.
+Visitor **names and places** are real ASEAN destinations with expanded descriptions. Selected 2019 baselines follow published figures where available (e.g. Angkor foreign tickets, Borobudur park visits, Ha Long Bay arrivals); the full yearly series remains a coursework COVID-dip model, not official ministry time series for every site.
 
 ---
 

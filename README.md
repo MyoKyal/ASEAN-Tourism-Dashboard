@@ -22,7 +22,7 @@ Interactive MERN dashboard for exploring tourism sites across all **11 ASEAN cou
 cd server
 npm install
 cp .env.example .env   # or use the included .env
-npm run seed           # writes sites.seed.json + inserts ~160 sites
+npm run seed           # writes sites.seed.json + inserts ~190 sites
 npm run dev            # http://localhost:5000
 ```
 
@@ -158,7 +158,7 @@ curl "http://localhost:5000/api/compare/search?q=shwe"
 
 ## Data disclaimer
 
-Visitor numbers for coursework are **synthetic or AI-approximated**, not official tourism-board figures. Seed entries include `dataProvenance: "real" | "invented"` so invented regional fillers are clear in reports. See also [docs/schema-design.md](docs/schema-design.md).
+Site **names, locations, and descriptions** target real ASEAN tourism destinations. Selected **2019 visitor baselines** (e.g. Angkor Park foreign tickets ~2.2M, Borobudur ~4.0M, Ha Long Bay ~4.4M) follow published figures where available; other baselines and the full **2019–2023 yearly series** are coursework estimates with a COVID dip/recovery pattern — **not** official tourism-board time series for every site. See [docs/schema-design.md](docs/schema-design.md).
 
 ## Environment
 
