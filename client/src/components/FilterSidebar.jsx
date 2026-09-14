@@ -1,3 +1,4 @@
+import { useEffect, useState } from 'react';
 import {
   CATEGORY_COLORS,
   CATEGORY_ICONS,
@@ -5,8 +6,11 @@ import {
   COUNTRY_COLORS,
 } from '../constants';
 
+const RATING_DEBOUNCE_MS = 300;
+
 export default function FilterSidebar({
   categories,
+  categoriesError = false,
   filters,
   onChange,
   open,
@@ -14,6 +18,23 @@ export default function FilterSidebar({
   showCountryColors = false,
 }) {
   const types = filters.category ? categories[filters.category] || [] : [];
+
+  // The rating slider fires on every drag tick; keep that responsive locally
+  // and only push the (debounced) value up to trigger a re-fetch.
+  const [ratingDraft, setRatingDraft] = useState(filters.minRating);
+
+  useEffect(() => {
+    setRatingDraft(filters.minRating);
+  }, [filters.minRating]);
+
+  useEffect(() => {
+    if (ratingDraft === filters.minRating) return;
+    const t = setTimeout(() => {
+      onChange({ ...filters, minRating: ratingDraft });
+    }, RATING_DEBOUNCE_MS);
+    return () => clearTimeout(t);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [ratingDraft]);
 
   function toggleCountry(c) {
     const set = new Set(filters.countries);
@@ -35,6 +56,11 @@ export default function FilterSidebar({
       <aside className={`filter-sidebar ${open ? 'is-open' : ''}`}>
         <p className="sidebar-kicker">Explore</p>
         <h2>Filters</h2>
+        {categoriesError && (
+          <p className="muted small" style={{ margin: '-0.4rem 0 0.9rem' }}>
+            Categories failed to load — showing all sites, category filter unavailable.
+          </p>
+        )}
 
         <label className="field">
           <span>Category</span>
@@ -74,17 +100,34 @@ export default function FilterSidebar({
         </label>
 
         <label className="field">
-          <span>Min rating: {filters.minRating.toFixed(1)}</span>
-          <input
-            type="range"
-            min="0"
-            max="5"
-            step="0.5"
-            value={filters.minRating}
-            onChange={(e) =>
-              onChange({ ...filters, minRating: Number(e.target.value) })
-            }
-          />
+          <span>Min rating</span>
+          <div
+            className="rating-slider"
+            style={{ '--fill': `${(ratingDraft / 5) * 100}%` }}
+          >
+            <div
+              className="rating-bubble"
+              style={{ left: `${(ratingDraft / 5) * 100}%` }}
+            >
+              {ratingDraft.toFixed(1)}
+            </div>
+            <input
+              type="range"
+              min="0"
+              max="5"
+              step="0.5"
+              value={ratingDraft}
+              onChange={(e) => setRatingDraft(Number(e.target.value))}
+            />
+            <div className="rating-ticks">
+              <span>0</span>
+              <span>1</span>
+              <span>2</span>
+              <span>3</span>
+              <span>4</span>
+              <span>5</span>
+            </div>
+          </div>
         </label>
 
         <fieldset className="field">
